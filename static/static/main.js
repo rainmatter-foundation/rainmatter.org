@@ -31,12 +31,15 @@
 	// If there's a blog section, fetch the feed and render it.
 	if(document.querySelector("#blog-entries")) {
 		const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-		fetch('/static/feed.json')
+		fetch('/blog/feed/json')
 			.then(response => response.json())
 			.then(data => {
 				const parent = document.querySelector("#blog-entries");
+
+				// Clone the empty blog entry container.
 				const entry = parent.querySelector(".entry");
 
+				// Create copies of the entry node and fill with blog entry details.
 				data.items.forEach(d => {
 					let e = entry.cloneNode(true);
 					e.querySelector('.url').setAttribute('href', d.url);
@@ -46,9 +49,13 @@
 					const date = new Date(d.date_published);
 					e.querySelector('.day').innerText = date.getDate();
 					e.querySelector('.month').innerText = months[date.getMonth()] + ' ' + date.getFullYear();
+
+					// Add the filled node to the parent.
 					parent.appendChild(e);
 				});
 
+				// Remove the original empty template node.
+				entry.remove();
 			});
 	}
 })();
