@@ -30,7 +30,7 @@
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 	{{ end -}}
 	
-	<meta property="og:image" content="{{ .Site.BaseURL }}static/images/thumb.png">
+	<meta property="og:image" content="{{ .Site.BaseURL }}/static/images/thumb.png">
 
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">

@@ -229,7 +229,7 @@ ul.flat li {
     margin-bottom: 45px;
 }
     .home .splash {
-        background: #002b20 url('/static/images/splash.jpg') no-repeat top center;
+        background: #001711 url('/static/images/splash.jpg') no-repeat top center;
     }
     .home .splash .container {
         height: 80vh;
