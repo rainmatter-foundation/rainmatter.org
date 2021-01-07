@@ -1,0 +1,13 @@
+<div class="project-list">
+{{ range (index .Page.Site.Data (.Get 0)) }}
+<div class="row">
+    <div class="one column">
+        <h4>{{ .year }}</h4>
+    </div>
+    <div class="six columns">
+        <h4><a href="{{ .url }}">{{ .name }}</a></h4>
+        <p class="text-small">{{ .description }}</p>
+    </div>
+</div>
+{{ end }}
+</div>

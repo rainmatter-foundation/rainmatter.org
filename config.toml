@@ -1,0 +1,47 @@
+baseURL = "https://rainmatter.org"
+languageCode = "en-us"
+title = "Rainmatter Foundation"
+paginate = 10
+googleAnalytics = ""
+publishDir = "public_html"
+
+[params]
+subtitle = "Non-profit offering funding and grants for environment, climate change, green livelihood projects."
+
+[taxonomies]
+   tag = "tags"
+   author = "authors"
+
+[menu]
+   [[menu.header]]
+      identifier = "about"
+      name = "About"
+      url = "/about"
+      weight = 1
+
+   [[menu.header]]
+      identifier = "projects"
+      name = "Projects"
+      url = "/projects"
+      weight = 2
+
+   [[menu.header]]
+      identifier = "funding"
+      name = "Funding"
+      url = "/funding"
+      weight = 3
+
+   [[menu.header]]
+      identifier = "blog"
+      name = "Blog"
+      url = "/blog"
+      weight = 4
+
+   [[menu.header]]
+      identifier = ""
+      name = "Forum"
+      url = "https://grove.rainmatter.org"
+      weight = 5
+
+[markup.goldmark.renderer]
+   unsafe= true

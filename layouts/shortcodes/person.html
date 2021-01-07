@@ -1,0 +1,27 @@
+{{ with (index .Page.Site.Data.people (.Get 0)) }}
+    <div class="two columns person" id="person-{{ ($.Get 0) }}">
+        <figure>
+            <img src="/static/images/people/{{ .photo }}" alt="{{ .name }}">
+            <p class="name">{{ .name }}
+                {{ if .title }}
+                <span class="title">{{ .title }}</span>
+                {{ end }}
+            </p>
+            <div class="bio-links">
+                <a href="#" class="open-bio" data-target="person-{{ ($.Get 0) }}">Bio</a>
+                <a href="#" class="close-bio">&larr; Back</a>
+            </div>
+        </figure>
+        <div class="bio text-small">
+        	{{ .bio | safeHTML }}
+
+	        {{ if .links }}
+		        <p class="links text-small">
+		        	{{ range $name, $url := .links }}
+		        		<a href="{{ $url }}">{{ $name }}</a>
+		        	{{ end }}
+		        </p>
+		      {{ end }}
+        </div>
+    </div>
+{{ end }}

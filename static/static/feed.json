@@ -1,0 +1,35 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "user_comment": "This feed allows you to read the posts from this site in any feed reader that supports the JSON Feed format. To add this feed to your reader, copy the following URL -- https://rainmatter.org/blog/feed/json -- and add it your reader.",
+    "home_page_url": "https://rainmatter.org/blog",
+    "feed_url": "https://rainmatter.org/blog/feed/json",
+    "language": "en-GB",
+    "title": "Rainmatter Foundation",
+    "description": "Just another WordPress site",
+    "items": [
+        {
+            "id": "https://rainmatter.org/blog/?p=1",
+            "url": "https://rainmatter.org/blog/2020/12/17/hello-world/",
+            "title": "Hello world!",
+            "content_html": "\n<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n",
+            "content_text": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
+            "date_published": "2020-12-17T10:19:51+00:00",
+            "date_modified": "2020-12-17T10:19:51+00:00",
+            "authors": [
+                {
+                    "name": "vishnus",
+                    "url": "https://rainmatter.org/blog/author/vishnus/",
+                    "avatar": "https://secure.gravatar.com/avatar/2d5414a31048cf37294fe26f896427da?s=512&d=mm&r=g"
+                }
+            ],
+            "author": {
+                "name": "vishnus",
+                "url": "https://rainmatter.org/blog/author/vishnus/",
+                "avatar": "https://secure.gravatar.com/avatar/2d5414a31048cf37294fe26f896427da?s=512&d=mm&r=g"
+            },
+            "tags": [
+                "Uncategorised"
+            ]
+        }
+    ]
+}

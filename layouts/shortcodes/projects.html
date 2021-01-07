@@ -1,0 +1,16 @@
+<ul class="projects no">
+{{ range .Page.Site.Data.projects }}
+    <li>
+        <div class="desc">
+            <h3><a href="{{ .url }}"><span>{{ .year }}</span> {{ .name }}</a></h3>
+            <p>{{ .description }}</p>
+            <span class="status">{{ .status }}</span>
+        </div>
+        <div class="thumb">
+            <a href="{{ .url }}"><img src="/static/images/prj/{{ .image }}" alt="{{ .name }} logo" /></a>
+            <p class="tags">{{ .tags }}</p>
+        </div>
+        <div class="clear"> </div>
+    </li>
+{{ end }}
+</ul>
