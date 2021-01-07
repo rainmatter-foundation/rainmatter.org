@@ -2,7 +2,7 @@
 title: "About us"
 type: "page"
 menu: "about"
-description: "About the Rainmatter Foundation and the people behind it"
+description: "About the Rainmatter Foundation, its goals, and the people behind it."
 ---
 
 Rainmatter Foundation is an initiative by the people behind [Zerodha](https://zerodha.com).

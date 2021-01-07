@@ -38,7 +38,7 @@
 	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}/static/grid.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}/static/style.css" />
 </head>
-<body>
+<body class="{{ .File.TranslationBaseName }}">
 <div class="wrap {{ if .IsHome }}home{{ else }}page{{ end }}">
 	<div class="splash">
 		<div class="container">
@@ -61,6 +61,18 @@
 					<div>
 						<h1>A little more forest,<span>everywhere.</span></h1>
 						<p>We support and fund individuals and organisations working on climate change, with a focus on afforestation, ecological regeneration, and livelihoods.</p>
+					</div>
+				</div>
+			{{ else if .IsPage }}
+				<div class="hero">
+					<div class="row">
+						<div class="four columns image">
+							<img src="/static/images/{{ .File.TranslationBaseName }}.png" alt="" />
+						</div>
+						<div class="eight columns">
+							<h1>{{ .Page.Title }}</h1>
+							<p>{{ .Page.Description }}</p>
+						</div>
 					</div>
 				</div>
 			{{ end }}

@@ -2,7 +2,7 @@
 title: "Funding and grants"
 type: "page"
 menu: "funding"
-description: "Funding and grants for individuals and organisations working on climate change and convseration"
+description: "Funding and grants for individuals and organisations working on climate change and conservation."
 ---
 
 ## Startups 

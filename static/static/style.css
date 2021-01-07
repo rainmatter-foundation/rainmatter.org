@@ -223,11 +223,14 @@ ul.flat li {
     }
 
 .splash {
-    background: url('/static/images/splash.jpg') no-repeat top center;
+    background: #002b20;
     overflow: hidden;
     color: #fff;
     margin-bottom: 45px;
 }
+    .home .splash {
+        background: #002b20 url('/static/images/splash.jpg') no-repeat top center;
+    }
     .home .splash .container {
         height: 80vh;
         position: relative;
@@ -237,22 +240,32 @@ ul.flat li {
         bottom: 15%;
         text-shadow: 1px 1px 2px #0a2f2b;
     }
-    .splash h1 {
+    .splash .welcome h1 {
         font-size: 2.75em;
         line-height: 1.7em;
         margin-bottom: 60px;
     }
-    .splash h1 span {
+    .splash .welcome h1 span {
         display: block;
         font-size: 2.2em;
     }
-    .splash p {
+    .splash .welcome p {
         max-width: 650px;
         margin: 0 auto;
         font-size: 1.4em;
         line-height: 1.7em;
         color: #eee;
     }
+
+    .splash .hero h1 {
+        margin-top: 10vh;
+    }
+    .splash .hero p {
+        font-size: 1.2em;
+        line-height: 1.7em;
+        max-width: 450px;
+    }
+
 
 .header {
     margin: 0 auto;
@@ -519,8 +532,11 @@ ul.flat li {
         padding-right: 30px;
         max-width: none;
     }
-    .splash h1 {
+    .splash .welcome h1 {
         font-size: 2em;
+    }
+    .splash .welcome h1 span {
+        font-size: 1.8em;
     }
 }
 
@@ -532,9 +548,9 @@ ul.flat li {
         background: #0a2f2b;
         display: none;
         width: 100%;
-        text-align: center;
         z-index: 1000;
         border-radius: 3px;
+        padding: 15px;
     }
         .header .nav a {
             display: block;
@@ -560,5 +576,16 @@ ul.flat li {
     .splash .welcome {
         position: static;
         padding: 45px 0;
+    }
+}
+
+
+@media (max-width: 650px) {
+    .people .open figure {
+        float: none;
+        margin: 0 0 30px 0;
+    }
+    .hero .image {
+        display: none;
     }
 }
