@@ -44,7 +44,7 @@
 					let e = entry.cloneNode(true);
 					e.querySelector('.url').setAttribute('href', d.url);
 					e.querySelector('.url').innerText = d.title;
-					e.querySelector('.description').innerText = d.content_text;
+					e.querySelector('.description').innerText = d.content_text.split(" ").slice(0, 50).join(" ") + " ...";
 
 					const date = new Date(d.date_published);
 					e.querySelector('.day').innerText = date.getDate();
