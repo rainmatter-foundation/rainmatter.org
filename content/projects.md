@@ -7,7 +7,7 @@ description: "Funding and support for grassroots projects tackling specific issu
 
 Both re-wilding as well as the creation of a green economy need a deep understanding of the conditions and reality on the ground, and committed local changemakers to engage with stakeholders there. Providing direct funding and support to individuals and organisations working on the ground, and ensuring that the solutions they create are documented and made available to many more, is core to what we do. 
 
-If you are an organisation working in this area and are looking for project funding, [write to us](mailto:info@rainmatter.org).
+If you are an organisation working in this area, you can appply for [funding](/funding) or to our [small grants](/grants) program.
 
 --------------
 
