@@ -21,13 +21,13 @@ body {
 
 a {
     color: var(--primary);
-    text-decoration: none;
+    text-decoration-thickness: 2px;
+    text-decoration-color: var(--primary);
+    word-break: break-word;
 }
     a:hover {
-        word-break: break-word;
-        text-decoration: underline;
-        text-decoration-color: var(--primary);
-        text-decoration-thickness: 2px;
+        color: #000;
+        text-decoration-color: #000;
     }
     code {
         display: inline-block;
@@ -42,6 +42,9 @@ a {
     .post .highlight {
         background: #f4f4f4;
         padding: 5px;
+    }
+    .post li {
+        margin-bottom: 15px;
     }
 
 html,button,input,select,textarea {
