@@ -34,6 +34,7 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "dinesh" >}}
 	{{< person "divya" >}}
 	{{< person "gaurav" >}}
+	{{< person "karan" >}}
 	{{< person "karthik" >}}
 </div>
 <div class="people row">
@@ -41,4 +42,5 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "seema" >}}
 	{{< person "shoaib" >}}
 	{{< person "som" >}}
+	{{< person "vinay" >}}
 </div>
