@@ -44,3 +44,6 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "som" >}}
 	{{< person "vinay" >}}
 </div>
+<div class="people row">
+	{{< person "vishnu" >}}
+</div>

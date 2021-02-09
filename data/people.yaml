@@ -79,9 +79,14 @@ krutika:
 karan:
   name: Karan Sharma
   photo: karan.jpg
-  bio: Karan helps maintain the systems that keep Rainmatter online.
+  bio: Karan helps maintain and run systems that keep Rainmatter online.
 
 vinay:
   name: Vinay Kumar
   photo: vinay.jpg
   bio: Vinay works on equipping NGOs working with Rainmatter with tech.
+
+vishnu:
+  name: Vishnu S
+  photo: vishnu.jpg
+  bio: Vishnu helps maintain and run systems that keep Rainmatter online.
