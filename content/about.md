@@ -22,23 +22,29 @@ If you are experienced or passionate about this space and would like to work wit
 
 <div class="people row">
 	{{< person "sameer" >}}
+</div>
+<div class="people row">
 	{{< person "nithin" >}}
 	{{< person "nikhil" >}}
 	{{< person "kailash" >}}
 </div>
 
+
 ## Team
-
-
 <div class="people row">
 	{{< person "dinesh" >}}
 	{{< person "divya" >}}
+	{{< person "santhosh" >}}
+</div>
+
+## Volunteers
+<div class="people row">
 	{{< person "gaurav" >}}
 	{{< person "karan" >}}
 	{{< person "karthik" >}}
+	{{< person "krutika" >}}
 </div>
 <div class="people row">
-	{{< person "krutika" >}}
 	{{< person "seema" >}}
 	{{< person "shoaib" >}}
 	{{< person "som" >}}
