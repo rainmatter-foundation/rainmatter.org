@@ -3,10 +3,10 @@ languageCode = "en-us"
 title = "Rainmatter Foundation"
 paginate = 10
 googleAnalytics = ""
-publishDir = "public_html"
+publishDir = ""
 
 [params]
-subtitle = "Non-profit offering funding and grants for environment, climate change, green livelihood projects."
+subtitle = "Non-profit offering funding and grants to environment, climate change, green livelihood projects."
 
 [taxonomies]
    tag = "tags"
@@ -40,7 +40,7 @@ subtitle = "Non-profit offering funding and grants for environment, climate chan
    [[menu.header]]
       identifier = "blog"
       name = "Blog"
-      url = "/blog"
+      url = "https://blog.rainmatter.org"
       weight = 5
 
    [[menu.header]]
