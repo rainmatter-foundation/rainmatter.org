@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Rainmatter Foundation"
 paginate = 10
 googleAnalytics = ""
-publishDir = ""
 
 [params]
 subtitle = "Non-profit offering funding and grants to environment, climate change, green livelihood projects."
