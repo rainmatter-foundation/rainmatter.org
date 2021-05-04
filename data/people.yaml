@@ -95,3 +95,17 @@ vishnu:
   name: Vishnu S
   photo: vishnu.jpg
   bio: Vishnu helps maintain and run systems that keep Rainmatter online.
+
+akshay:
+  name: Akshay Kanthi
+  photo: akshay.jpg
+  bio: Akshay is a Tech Fellow for Rainmatter. His mandate is to get computers out of the way for organisations and individuals to let them do what they do best, ecological restoration. He did not study Chemical Engineering at college and instead spent time at his professor's organic farm learning about sustainable living. He's passionate about data ownership, open source and alternate education. 
+  links:
+    LinkedIn: https://www.linkedin.com/in/akshaykanthi/
+    
+ ganeshram:
+  name: Ganeshram
+  photo: ganeshram.jpg
+  bio: Ganeshram is a Research Fellow at Rainmatter Foundation focused on Ecological Wealth. With a strong belief in deep - ecology, his work involves creating products and experiences that connect back to Nature. He is a Naturalist and loves facilitating People - Plant Interactions, when he is not playing percussion instruments.  
+  links:
+    LinkedIn: https://www.linkedin.com/in/ganeshram-413b1754/  
