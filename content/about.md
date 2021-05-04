@@ -35,6 +35,8 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "dinesh" >}}
 	{{< person "divya" >}}
 	{{< person "santhosh" >}}
+	{{< person "akshay" >}}
+	{{< person "ganeshram" >}}
 </div>
 
 ## Volunteers
