@@ -18,19 +18,11 @@ ecological restoration, fostering distributed and federated green economies and 
 
 If you are experienced or passionate about this space and would like to work with us, [write to us](mailto:info@rainmatter.org).
 
-## Leadership
+## Team
 
 <div class="people row">
 	{{< person "sameer" >}}
 </div>
-<div class="people row">
-	{{< person "nithin" >}}
-	{{< person "nikhil" >}}
-	{{< person "kailash" >}}
-</div>
-
-
-## Team
 <div class="people row">
 	{{< person "dinesh" >}}
 	{{< person "divya" >}}
@@ -40,19 +32,27 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "ganeshram" >}}
 </div>
 
+## Directors
+
+<div class="people row small">
+	{{< person "nithin" >}}
+	{{< person "nikhil" >}}
+	{{< person "kailash" >}}
+</div>
+
 ## Volunteers
-<div class="people row">
+<div class="people row small">
 	{{< person "gaurav" >}}
 	{{< person "karan" >}}
 	{{< person "karthik" >}}
 	{{< person "krutika" >}}
 </div>
-<div class="people row">
+<div class="people row small">
 	{{< person "seema" >}}
 	{{< person "shoaib" >}}
 	{{< person "som" >}}
 	{{< person "vinay" >}}
 </div>
-<div class="people row">
+<div class="people row small">
 	{{< person "vishnu" >}}
 </div>
