@@ -455,6 +455,10 @@ ul.flat li {
             margin-right: 30px;
         }
 
+    .people.small figure {
+        max-width: 115px;
+    }
+
 .project-list h4 {
     margin: 0 0 5px 0;
 }
