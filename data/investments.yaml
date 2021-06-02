@@ -1,10 +1,15 @@
 ---
 - name: Blue Sky Analytics
   url: https://blueskyhq.in
-  description: Good, reliable data forms the basis for bringing attention to the right problems and helps in finding the right solutions to them. Blue Sky crunches massive amounts of satellite and other data to provide high-quality, historical, real-time and predictive environmental intelligence. They build APIs & platforms to understand and predict climate change. This was Rainmatter’s first climate-tech investment.
+  description: Good, reliable data forms the basis for bringing attention to problems and is key in finding the solutions to them. Blue Sky crunches massive amounts of satellite and other data to provide high-quality, historical, real-time and predictive environmental intelligence. They build APIs & platforms to understand and predict climate change. This was Rainmatter’s first climate-tech investment.
   year: 2020
 
 - name: Terra.do
   url: https://terra.do
-  description: Terra.do is an online climate school that trains aspiring climate entrepreneurs with world's top experts on climate science, policy, business, social justice. This investment is firmly in line with our belief in the need for many smart folks across the world needing to get trained and involved in solving climate change, and going on to help create a green economy.
+  description: Terra.do is an online climate school that trains aspiring climate entrepreneurs with the world's leading experts on climate science, policy, business and social justice. This investment is in line with our belief in the need for many smart folks needing to get involved in addressing the questions posed by climate change.
   year: 2020
+
+- name: Agnikul
+  url: https://agnikul.in
+  description: Agnikul is democratising access to space for the small satellite market. The team aims to contribute immensely to the prediction of weather patterns using small satellites. Rapid, on-demand launches of these satellites will help us understand climate change in a timely manner.
+  year: 2021
