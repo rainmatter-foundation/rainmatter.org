@@ -2,7 +2,7 @@
 title: "Funding"
 type: "page"
 menu: "funding"
-description: "Monetary support for individuals and organisations working for the environment and conservation."
+description: "Monetary support for fellowships and organisations working for the environment and conservation."
 ---
 
 ## **Our focus Areas**

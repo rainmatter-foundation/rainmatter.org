@@ -7,7 +7,7 @@ description: ""
 
 Rainmatter Foundation is a non-profit initiative by the people behind [Zerodha](https://zerodha.com). We recognise that climate change is the biggest existential threat to life as we know it. We have committed to using the resources available to us to enable, and to attempt to replicate at scale, the potential solutions that may help address at least some of these threats, and aid in the restoration of our natural ecosystems.
 
-We aim to support individuals and organisations engaged in solving these problems, as well as startups working to help scale ideas in this space. Our focus is on ecological restoration, fostering distributed and federated green economies and livelihoods.
+We aim to support fellowships and organisations engaged in solving these problems, as well as startups working to help scale ideas in this space. Our focus is on ecological restoration, fostering distributed and federated green economies and livelihoods.
 
 If you are experienced or passionate about this space and would like to work with us, [send an email](mailto:info@rainmatter.org).
 
