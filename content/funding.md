@@ -5,7 +5,7 @@ menu: "funding"
 description: "Monetary support for fellowships and organisations working for the environment and conservation."
 ---
 
-## **Our focus Areas**
+## **Our focus areas**
 
 - **Rewilding - More Forest Everywhere** — Your organisation works on or encourages direct rewilding of spaces, or encourages better soil management and biodiversity at farms, in public spaces and the commons in turn making every space a little more forest-like.
   
@@ -15,7 +15,7 @@ description: "Monetary support for fellowships and organisations working for the
 
 At Rainmatter Foundation, we believe that these are important directions to pursue, and would like to enable and support such efforts.
 
-## **organisational grants**
+## **Organisational grants**
 
 At Rainmatter, we are focused on long-term outcomes that help create low footprint, sustainable ecosystems. Ideally, such outcomes will  strike a balance between environmental, economic and social indicators.. 
 We believe that in the pursuit of these directions, organisations should have scope and flexibility to experiment with ideas, and while short-term projects are useful, they should not get in the way of the larger vision. We are eager to work with organisations that collaborate across the board and help adopt and adapt good ideas and best practices through cross-pollination. If you are one such organisation and relate to the focus areas listed above, please share your organisation’s charter and background, a summary of your efforts and the directions you are pursuing that need funding [here](mailto:info@rainmatter.org). We will get in touch.
