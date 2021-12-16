@@ -24,6 +24,10 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "akshay" >}}
 	{{< person "ganeshram" >}}
 </div>
+<div class="people row">
+	{{< person "lalani" >}}
+	{{< person "varun" >}}
+</div>
 
 ## Directors
 
