@@ -17,6 +17,12 @@ If you are an organisation working in this area, you can apply for [funding](/fu
 
 --------------
 
+## Fellowships 
+
+{{< investments "fellowships" >}}
+
+--------------
+
 ## Investments
 
 {{< investments "investments" >}}
