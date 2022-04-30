@@ -13,7 +13,8 @@ description: "Monetary support for fellowships and organisations working for the
   
 - **Localized Production and Consumption** — Your organisation drives more local production and consumption, and boosts livelihood creation, especially outside tier-I cities.
 
-At Rainmatter Foundation, we believe that these are important directions to pursue, and would like to enable and support such efforts.
+At Rainmatter Foundation, we believe that these are important directions to pursue, and would like to enable and support such efforts. 
+<a href="../projects">See the list of funded projects</a>.
 
 ## **Organisational grants**
 
@@ -37,3 +38,4 @@ Recipients of organisational and small grants programs as well as fellows will b
 We believe that businesses will have to recognise that taking climate action is an urgent and critical need, and that there is an opportunity for smart entrepreneurs to create businesses that are profitable and have positive impacts on the planet.
 
 We invest in startups working in this area via our investment company, [Rainmatter Capital](https://rainmatter.com/). If you are a startup or an organisation working in this area looking for funding, [apply here](https://forms.gle/88D9cKMan27qa5R57) and we will get in touch.
+
