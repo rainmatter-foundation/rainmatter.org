@@ -27,6 +27,8 @@ If you are experienced or passionate about this space and would like to work wit
 <div class="people row">
 	{{< person "lalani" >}}
 	{{< person "varun" >}}
+	{{< person "vikas" >}}
+	{{< person "rishabh_verma" >}}
 </div>
 
 ## Directors
