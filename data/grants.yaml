@@ -1,52 +1,51 @@
 ---
 - name: The 1000 Tree Project @ SwaYYam
   url: https://swayyam.org/1000-tree-project-suvarna-yojane/
-  description: A 100+ acre farmers’ collective at the edge of the Bandipur forest aims to transform a degraded landscape into a fertile terrain with sustainable water resource management. In addition, the initiative will strengthen and secure the livelihoods of farmers through an agroforestry approach. We were delighted by Malvikaa's efforts and decided to support her plan for the three-year duration required for the completion of the project.
+  description: A 100+ acre farmers’ collective at the edge of the Bandipur forest aims to transform a degraded landscape into a fertile terrain with sustainable water resource management. In addition, the initiative will strengthen and secure the livelihoods of farmers through an agroforestry approach.
   year: 2020
 
 - name: Wild Shaale @ Centre for Wildlife Studies
   url: https://cwsindia.org
-  description: Dr. Krithi Karanth of CWS has been at the forefront to address the human-animal conflict in and around wildlife habitat by relying on education, awareness, and rights-based approaches. We have contributed to CWS’ "Wild Shaale" program, a unique conservation-education program designed for rural school-going children living around wildlife reserves. Wild Shaale  seeks to build foundational knowledge about local wildlife, ecosystems and conservation issues and in the process fosters tolerance for wildlife among children, who are our future stewards of conservation.
+  description: Dr. Krithi Karanth of CWS has been at the forefront to address the human-animal conflict in and around wildlife habitat by relying on education, awareness, and rights-based approaches. We have contributed to CWS’ "Wild Shaale" program, a unique conservation-education program designed for rural school-going children living around wildlife reserves. 
   year: 2020
 
 - name: Ecologically Sustainable Median Planting @ Center for Environment Concerns
   url: https://securingwaterforfood.org/innovators/swar-centre-for-environment-concerns
-  description: Dr. K S Gopal is a pioneer who is driving an experiment for the ecologically sound planting of flora on a couple of kilometers of medians on main roads in Bengaluru. The aim is to support an ecosystem for birds and bees, use 50% less water, drastically bring down truck and road closure time, reduce costs for de-weeding, create biologically-rich healthy soils and reduce the probability of plant diseases. We hope this forms the template for urban arterial roads one day.
+  description: Dr. K S Gopal is a pioneer who is driving an experiment for the ecologically sound planting of flora on a couple of kilometers of medians on main roads in Bengaluru. The aim is to support an ecosystem for birds and bees, use 50% less water, drastically bring down truck and road closure time, reduce costs for de-weeding, create biologically-rich healthy soils.
   year: 2020
 
 - name: Vidhi - Center for Legal Policy
   url: https://vidhilegalpolicy.in
-  description: Vidhi Centre for Legal Policy (Vidhi) is an independent think tank doing legal research to make better laws and improve governance for the public good. They do this through peer-reviewed, original legal research; by engaging with the Government of India; with state governments and other public institutions to both inform policy-making and to effectively convert policy into law; and through strategic litigation petitioning courts on important legal and policy issues.
+  description: Independent think tank doing legal research to make better laws and improve governance for the public good. 
   year: 2021
 
 - name: Nature Conservation Foundation
   url: https://www.ncf-india.org
-  description: Nature Conservation Foundation (NCF) contributes to the knowledge and conservation of India’s unique wildlife heritage with innovative research and imaginative solutions. They work in a range of wildlife habitats—from coral reefs and tropical rainforests to the high mountains of the Himalayas in collaboration with local communities and government managing these resources. Their research also addresses human resource use and its impacts on wild species and ecosystems. Using this knowledge of wildlife ecology and human society, they design conservation strategies that are locally appropriate. 
+  description: Contributing to the knowledge and conservation of India’s unique wildlife heritage with innovative research and imaginative solutions. They work in a range of wildlife habitats—from coral reefs and tropical rainforests to the high mountains of the Himalayas.
   year: 2021
 
 - name: ReapBenefit
   url: https://reapbenefit.org
-  description: Reap Benefit is building a tribe of problem-solving citizens who drive change in their local communities by solving everyday issues using local data, local solutions and local campaigns. The experiential learning is amplified by hands-on activities, Do-It-Yourself Solution kits, civic games and Reap Benefit’s technology platforms. They seek to create and nurture champions of small solutions in every community across the country. They believe that each small solution will create a measurable and meaningful impact, which will draw more champions towards the power of the small.
+  description: Building a tribe of problem-solving citizens who drive change in their local communities by solving everyday issues using local data, local solutions and local campaigns. The experiential learning is amplified by hands-on activities, Do-It-Yourself Solution kits, civic games and Reap Benefit’s technology platforms.
   year: 2021
 
 - name: SayTrees
   url: https://www.saytrees.org
-  description: SayTrees is a group of ordinary people who are extraordinarily determined to protect the environment by sensitising and empowering people to give back to nature. The SayTrees team inspires citizens to spare a few hours on weekends and work towards making their cities, and their lives, greener. For seven years, they have worked untiringly with individuals and corporate teams to help change the landscape in Bengaluru. They would like to take tree plantation drives to other cities and enlist more tree enthusiasts, particularly corporate teams, in their effort.
+  description: Group of ordinary people determined to protect the environment by sensitising and empowering people to give back to nature. This team inspires citizens to spare a few hours on weekends and work towards making their cities, and their lives, greener. 
   year: 2021
 
 - name: Farmers for Forests
   url: https://www.farmersforforests.org
-  description: Farmers for Forests (FFF) is a not-for-profit with the audacious goal of revolutionizing India’s forestry sector to sequester carbon, support farmers, create green jobs and restore and protect fragile ecosystems. FFF works with communities and people who want to protect the forest in which they live.
-  year: 2021
+  description: A not-for-profit with the goal of revolutionizing India’s forestry sector to sequester carbon, support farmers, create green jobs and restore and protect fragile ecosystems. They work with communities and people who want to protect the forest in which they live.
 
 - name: Waste Warriors
   url: https://wastewarriors.org
-  description: "Waste Warriors works to build sustainable, affordable and replicable Solid Waste Management models in three different regions: urban Dehradun (Uttarakhand), hilly Dharamshala (Himachal Pradesh) and the rural forested landscape around Corbett Tiger Reserve (Uttarakhand). They engage with a range of residential and business communities, focus on changing behaviour towards waste and the environment, develop livelihoods to improve basic income and empower the lives of waste workers."
+  description: Working to build sustainable, affordable and replicable Solid Waste Management models in three different regions: urban Dehradun (Uttarakhand), hilly Dharamshala (Himachal Pradesh) and the rural forested landscape around Corbett Tiger Reserve (Uttarakhand). 
   year: 2021
 
 - name: Palar Guttahalli Eco-restoration Program
   url: https://rotaryclubofbangalore.org/2021/05/07/palar-guttahalli-eco-restoration-program/
-  description: "The Rotary Club Of Bangalore (RCB) and the Vyakti Vikas Kendra (VVKI) have partnered to revive the Palar river basin. The rainfed river originates in Chikkaballapur district and flows through three states--Karnataka, Andhra Pradesh and Tamil Nadu--before emptying into the Bay of Bengal. The restoration project will include multiple scientific interventions such as managed aquifer recharge, revival of the surrounding water bodies and network streams, planting trees on nearby barren lands and training and imparting knowledge to people in adjacent villages to conduct water audits for their respective water security plans."
+  description: The Rotary Club Of Bangalore (RCB) and the Vyakti Vikas Kendra (VVKI) have partnered to revive the Palar river basin. The rainfed river originates in the Chikkaballapur district and flows through three states--Karnataka, Andhra Pradesh and Tamil Nadu--before emptying into the Bay of Bengal. 
   year: 2021
 
 - name: Media Grantees
@@ -56,70 +55,70 @@
 
 - name: ATREE
   url: https://atree.org
-  description: ATREE’s Centre for Social and Environmental Innovation (CSEI) designs research-backed solutions for the first mile—citizens, consumers and businesses—that protect the environment while providing livelihoods. CSEI’s Food Futures Initiative aims to boost water security and restore degraded land to improve 150,000 livelihoods in 2000 villages by 2030. Simplistic approaches to expanding water availability often miss the “zero-sum” nature of the game. As the focus has shifted from building structures to demand management and water budgeting, the initiative is co-creating digital and paper tools to help grassroots civil society organisations budget and plan for water better.
+  description: Centre for Social and Environmental Innovation (CSEI) designs research-backed solutions for the first mile—citizens, consumers and businesses—that protect the environment while providing livelihoods. CSEI’s Food Futures Initiative aims to boost water security and restore degraded land to improve 150,000 livelihoods in 2000 villages by 2030. 
   year: 2021
 
 - name: Dakshin
   url: https://www.dakshin.org/
-  description: The only research and intervention organisation with a primary focus on India's marine, coastal and island geographies, Dakshin Foundation informs and advocates for conservation and natural resource management, while supporting sustainable livelihoods, social development and environmental justice. Dakshin’s flagship initiative, Sea Change, converges insights from existing projects to leverage environmental and social benefits for resource-dependent communities through interventions that are sensitive to local contexts, cultural traditions and worldviews. The organisation’s work is tailored to facilitate meaningful participatory partnerships, and enable locally-empowered and inclusive governance arrangements for lasting marine sustainability.
+  description: The only research and intervention organisation with a primary focus on India's marine, coastal and island geographies, they inform and advocate for conservation and natural resource management, while supporting sustainable livelihoods, social development and environmental justice.
   year: 2021
 
 - name: Technology for Wildlife
   url: https://www.techforwildlife.com/
-  description: Technology for Wildlife Foundation amplifies conservation impact. Using appropriate modern technologies, they collaborate with partners, conduct innovative independent projects and educate conservation practitioners. Their goal is to ensure that interventions for wildlife and environment conservation are conducted effectively, efficiently, and ethically.
+  description: Amplifying conservation impact. Using technology to collaborate with partners, conduct innovative independent projects and educate conservation practitioners.
   year: 2021
 
 - name: Uttarayan
   url: https://uttarayanwildlife.org/
-  description: Uttarayan, a 35+ yr old NGO working with people and ecosystems has been steadily building robust ecology across South Bengal. It being part of Pallisree, the largest nursery organization in West Bengal makes it easier to work on ecological restorations. We are partnering with WWF West Bengal to create a nursery for elephant fodder and repellant plantation to restore fragmented habitats of North Bengal Terai elephant corridors. The NGO’s sole mission and vision have been to intricately work on the restoration of fragmented corridors in South Bengal and recreate the rich biodiversity which was at one point a region dedicated to rich flora and fauna but with the advent of population explosion, it has got largely fragmented causing man-animal conflict and mass extinction of flora and fauna. 
+  description: 35+ yr old NGO working with people and ecosystems to build robust ecology across South Bengal. Creating a nursery for elephant fodder and repellant plantation to restore fragmented habitats of North Bengal Terai elephant corridors.  
   year: 2021
 
 - name: Fields of View
   url: http://fieldsofview.in/
-  description: Fields of View is leveraging their decade-long experience and expertise in designing tools, spaces for participation and evidence-based decision-making, to build a platform rooted in lived experience and research for thoughtful climate action. The initiative undertaken will strengthen the capacity of various actors striving for a healthy planet.
+  description: Leveraging experience and expertise in designing tools, spaces for participation and evidence-based decision-making, to build a platform rooted in lived experience and research for thoughtful climate action. 
   year: 2021
 
 - name: Sarjapura Curries
   url: https://www.facebook.com/samuhaa
-  description: Sarjapura Curries builds a culture of eating healthy and a trusting community. Their vision is to build a learning centre and space for activities related to nature, reviving dying handcrafted skills and holistic life.
+  description: Building a culture of eating healthy and a trusting community. With a vision to build a learning centre and space for activities related to nature, reviving dying handcrafted skills and holistic life.
   year: 2021
 
 - name: Sauramandala Foundation
   url: https://sauramandalain.wixsite.com/sauramandala
-  description: Sauramandala's vision is to build resilience of people living in remote, disconnected, and vulnerable communities in India. This is done through a district ground-up, full-stack approach that will build and foster the capacity of changemakers from these regions to solve complex challenges in health, education, ecology, and livelihoods.
+  description: With a vision to build the resilience of people living in remote, disconnected, and vulnerable communities in India. Building and fostering the capacity of changemakers from local communities to solve complex challenges in health, education, ecology, and livelihoods.
   year: 2021
 
 - name: Janaagraha
   url: http://janaagraha.org/
-  description: Janaagraha works at intersections to fix the city systems across law, policy, institutions with a specific focus on sectors such as Climate Change, Gender Equality & Public Safety, Water and Sanitation, Education, and Public Health using tools and activities like Civic Participation, Municipal Finance, Advocacy and instilling 21st Century skills among youth to empower them to become active citizens.
+  description: Working fix the city systems across law, policy, and institutions with a specific focus on sectors such as climate change, gender equality & public safety, water and sanitation, education, and public health using civic participation, municipal finance, and advocacy.
   year: 2021
 
 - name: Socratus
   url: https://socratus.org/
-  description: Socratus seeks to be the midwife of collective wisdom. They bring together the 'right' people to carefully designed spaces.
+  description: Seeking to be the midwife of collective wisdom. They are creating a distributed academy for training minds through deep engagement with problems such as the agrarian crisis and climate change.
   year: 2021
 
 - name: Nrityagram
   url: https://nrityagram.org/
-  description: Nrityagram is a village of artistes dedicated to the practice and nurture of a 2000-year-old art form. For the last 3 decades having nurtured their land through vermi-composting, waste-management, alternative energy use, replenishing water and growing food, they practice a holistic lifestyle.
+  description: Village of artists dedicated to the practice and nurture of a 2000-year-old art form. For the last 3 decades having nurtured their land through vermicomposting, waste-management, alternative energy use, replenishing water and growing food, they practice a holistic lifestyle.
   year: 2021
 
 - name: SlamOutLoud
   url: https://slamoutloud.com
-  description: Slam Out Loud (SOL) uses the art forms of poetry, storytelling, theatre, and visual arts to help children from under-resourced communities find their voice through creative expression. They work with teachers and professional artists and create contextual curriculum resources to help children build Creative Confidence (a combination of six 21st-Century and SEL skills). They will be piloting the integration of an arts-based Climate Action curriculum into their ongoing programs, to enable children to understand the impact of climate change and steps they can take to engage with the issue.
+  description: Using art forms of poetry, storytelling, theatre, and visual arts to help children from under-resourced communities find their voice through creative expression. They will be piloting the integration of an arts-based Climate Action curriculum into their ongoing programs, to enable children to understand the impact of climate change and steps they can take to engage with the issue.
   year: 2022
 
 - name: Buzz Women
   url: http://www.buzzwomen.org
-  description: Buzz Women enable underserved women by making knowledge, skills and tools available at their doorsteps for economic, social, personal and ecological empowerment through various training. The programs are built on the foundation of the 5 Cs - Cash, Care, Climate, Community, and Confidence. Buzz Women wishes to aid in combating poverty not only through a change management process that deals with the economical aspect of poverty, but also the ecological, psychological, and sociological aspects. The program is divided into multiple interventions that are contextual and meaningful.
+  description: Enabling underserved women by making knowledge, skills and tools available for economic, social, personal and ecological empowerment. Built on the foundation of the 5 Cs - Cash, Care, Climate, Community, and Confidence. 
   year: 2022
 
 - name: Wassan
   url: https://www.wassan.org
-  description: Wassan enables societal transitions to natural farming as it needs simultaneous change in the way multiple institutions, markets, government and individual actors change their methods, incentive structures, and behavioural patterns to align with the transition pathways. For farmers to easily transit to regenerative agriculture, an ecosystem of support is much needed that makes it easy for farmers to shift to regenerative practices. Rainmatter and WASSAN have agreed to catalyze and co-create a scalable and sustainable ecosystem of support services in the most naturally rich but economically disadvantaged regions of India.
+  description: Societal transitions to natural farming through multiple institutions, markets, government, individual actors, incentive structures, and behavioural patterns to align with the transition pathways. Providing an ecosystem of support making it easy for farmers to shift to regenerative practices. 
   year: 2022
 
 - name: Biome Environmental Trust
   url: https://biometrust.org
-  description: Biome Environmental Trust has been set up with the aim to conduct research, public education, practice-to-policy bridging, and policy advocacy in the areas of land-use and land-use planning, energy, water, and sanitation. The trust ideates, incubates, and catalyzes uptake of ideas that contribute to and strengthen ecological sustainability and environmentally and socially just water and land-use management. Over time, they have developed a lot of content (including on-ground stories, water-related primers, research papers, etc.)
+  description: Research, public education, practice-to-policy bridging, and policy advocacy in the areas of land-use and land-use planning, energy, water, and sanitation. The trust ideates, incubates, and catalyzes ecological sustainability and environmentally and socially just water and land-use management. 
   year: 2022
