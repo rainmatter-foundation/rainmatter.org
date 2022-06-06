@@ -11,9 +11,10 @@ If you are an organisation working in this area, you can apply for [funding](/fu
 
 --------------
 
-## Grants 
 
-{{< investments "grants" >}}
+## Investments
+
+{{< investments "investments" >}}
 
 --------------
 
@@ -23,6 +24,7 @@ If you are an organisation working in this area, you can apply for [funding](/fu
 
 --------------
 
-## Investments
+## Grants 
 
-{{< investments "investments" >}}
+{{< investments "grants" >}}
+
