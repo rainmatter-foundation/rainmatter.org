@@ -19,9 +19,7 @@ If you are experienced or passionate about this space and would like to work wit
 <div class="people row">
 	{{< person "dinesh" >}}
 	{{< person "divya" >}}
-	{{< person "santhosh" >}}
 	{{< person "marisha" >}}
-	{{< person "akshay" >}}
 	{{< person "ganeshram" >}}
 </div>
 <div class="people row">
