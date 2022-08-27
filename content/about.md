@@ -21,11 +21,11 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "divya" >}}
 	{{< person "marisha" >}}
 	{{< person "ganeshram" >}}
+	{{< person "varun" >}}
+	{{< person "vikas" >}}
 </div>
 <div class="people row">
 	{{< person "lalani" >}}
-	{{< person "varun" >}}
-	{{< person "vikas" >}}
 	{{< person "rishabh_verma" >}}
 </div>
 
