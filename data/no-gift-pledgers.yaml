@@ -1,0 +1,8 @@
+---
+- name: Zerodha
+  year: 2022
+  url: https://zerodha.com
+
+- name: BoCo
+  year: 2022
+  url: https://boco.in
