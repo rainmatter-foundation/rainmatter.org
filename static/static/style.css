@@ -393,8 +393,7 @@ ul.flat li {
         margin: 0 30px 30px 0;
         max-width: 150px;
     }
-    .bio,
-    .people .close-bio {
+    .people .bio {
         display: none;
     }
     .people img {
@@ -431,8 +430,6 @@ ul.flat li {
         max-width: 800px;
         width: 100%;
 
-        border: 1px solid #ddd;
-        border-radius: 3px;
         display: block;
     }
         .bio h3 {
