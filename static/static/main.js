@@ -1,6 +1,6 @@
-(function() {
-	function closeAllBio() {
-		document.querySelectorAll(".people .person").forEach(el => {
+(function () {
+	function closeBio() {
+		document.querySelectorAll(".bio.open").forEach(el => {
 			el.classList.remove("open");
 		});
 	}
@@ -8,15 +8,15 @@
 	document.querySelectorAll(".people .open-bio").forEach(el => {
 		el.onclick = (e) => {
 			e.preventDefault();
-			closeAllBio();
+			closeBio();
 			document.querySelector("#" + el.dataset.target).classList.add("open");
 		};
 	});
 
-	document.querySelectorAll(".people .close-bio").forEach(el => {
+	document.querySelectorAll(".close-bio").forEach(el => {
 		el.onclick = (e) => {
 			e.preventDefault();
-			closeAllBio();
+			closeBio();
 		};
 	});
 
@@ -24,12 +24,12 @@
 	document.querySelector("#burger").onclick = (e) => {
 		e.preventDefault();
 
-		const f = document.querySelector(".header .nav");
+		const f = document.querySelector(".header nav");
 		f.style.display = f.style.display === "block" ? "none" : "block";
 	};
 
 	// If there's a blog section, fetch the feed and render it.
-	if(document.querySelector("#blog-entries")) {
+	if (document.querySelector("#blog-entries")) {
 		const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 		fetch('/blog/feed/json')
 			.then(response => response.json())

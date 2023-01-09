@@ -5,7 +5,7 @@ paginate = 10
 googleAnalytics = ""
 
 [params]
-subtitle = "Non-profit offering investments and grants to environment, climate change, green livelihood projects."
+subtitle = "Non-profit working on environment, climate change, green livelihood projects in India."
 
 [taxonomies]
    tag = "tags"
@@ -19,15 +19,15 @@ subtitle = "Non-profit offering investments and grants to environment, climate c
       weight = 1
 
    [[menu.header]]
-      identifier = "funding"
-      name = "Funding"
-      url = "/funding"
+      identifier = "partners"
+      name = "Partners"
+      url = "/Partners"
       weight = 2
 
    [[menu.header]]
-      identifier = "projects"
-      name = "Projects"
-      url = "/projects"
+      identifier = "funding"
+      name = "Funding"
+      url = "/funding"
       weight = 3
 
    [[menu.header]]

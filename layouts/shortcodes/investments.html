@@ -1,7 +1,7 @@
 {{ $slice := (index .Page.Site.Data (.Get 0)) }}
 {{ $len := len $slice }}
 
-<div class="project-list">
+<div class="investments">
 {{ range (seq $len) }}
     {{ $i := sub $len . }}
     {{ $e := index $slice $i }}
@@ -10,9 +10,19 @@
         <div class="one column">
             <h4>{{ $e.year }}</h4>
         </div>
-        <div class="eleven columns">
+        <div class="eight columns">
             <h4><a href="{{ $e.url }}">{{ $e.name }}</a></h4>
             <p class="text-small">{{ $e.description }}</p>
+        </div>
+        <div class="three columns amount text-small">
+            {{ if $e.amount }}
+                <span class="amount">
+                    ₹{{ div $e.amount 10000000 }} crores
+                </span>
+            {{ end }}
+            {{ if and $e.amount $e.period }}
+                <span class="period">over {{ $e.period }}</span>
+            {{ end }}
         </div>
     </div>
 
