@@ -1,6 +1,6 @@
 :root {
     --bg: #043927;
-    --primary: #178a63;
+    --primary: #685441;
 }
 
 * {
@@ -9,14 +9,15 @@
 html, body {
     margin: 0;
     padding: 0;
+    min-width: 320px;
 }
 body {
-    background: #eee;
+    background: #fff;
     font-family: "Inter", sans-serif;
     font-weight: 400;
-    color: #333;
+    color: #222;
     line-height: 1.7em;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 a {
@@ -52,7 +53,7 @@ html,button,input,select,textarea {
 }
 
 ::selection {
-    background: #111;
+    background: var(--primary);
     text-shadow: none;
     color: #fff;
 }
@@ -108,14 +109,14 @@ blockquote em {
 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Playfair Display';
     font-weight: 600;
     line-height: 1.3em;
-    margin: 15px 0 30px 0;
+    margin: 30px 0 20px 0;
 }
 
 h1 {
     font-size: 2.75rem;
+    margin-bottom: 30px;
 }
 h2 {
     font-size: 2rem;
@@ -139,8 +140,42 @@ h6 {
     font-size: .9rem;
 }
 
+.noul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.welcome {
+    margin-bottom: 45px;
+}
+    .welcome .text {
+        font-size: 1.2rem;
+        line-height: 2rem;
+        padding-top: 20vh;
+    }
+    .welcome h1 {
+        font-size: 4rem;
+        font-weight: 600;
+        margin: 0 0 45px 0;
+        line-height: 4.5rem;
+    }
+    .welcome .image {
+        margin-top: 30px;
+    }
+
+.intro-points li {
+    border-left: 8px solid #eee;
+    padding-left: 30px;
+    margin-bottom: 50px;
+}
+    .intro-points h3 {
+        margin: 0;
+    }
+
 .half {
     max-width: 60%;
+    margin: 0 auto;
 }
 .align-center {
     text-align: center;
@@ -152,6 +187,13 @@ h6 {
 
 .align-right {
     text-align: right;
+}
+
+.text-tiny {
+    font-size: 0.85rem;
+}
+.dim {
+    opacity: 0.75;
 }
 
 .float-right {
@@ -167,9 +209,25 @@ h6 {
     color: #666;
 }
 
+.button {
+    background: var(--bg);
+    color: #fff;
+    padding: 15px 30px;
+    display: inline-block;
+    border-radius: 3px;
+    font-weight: bold;
+    min-width: 100px;
+    border: 0;
+    text-decoration: none;
+    text-align: center;
+}
+    .button:hover {
+        background: var(--primary);
+        color: #fff;
+    }
 
 section {
-    margin-bottom: 75px;
+    margin-bottom: 120px;
 }
     section.border {   
         padding-bottom: 75px;
@@ -194,6 +252,12 @@ ul.flat li {
     margin-left: 0;
 }
 
+.box {
+    padding: 45px;
+    border: 1px solid #e6e6e6;
+    box-shadow: 2px 2px 2px #eee;
+}
+
 .prevent-collapse {
     min-height: .1rem
 }
@@ -205,122 +269,52 @@ ul.flat li {
     background-color: transparent !important;
 }
 
-.home .content {
-    padding-top: 45px;
-}
-
-.wrap {
-    background: #fff;
-    max-width: 1350px;
-    margin: 0 auto;
-    padding-bottom: 30px;
-}
-.container {
-    max-width: 1200px;
-    min-width: 320px;
-    margin: auto;
-}
-    .mini {
-        max-width: 800px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-.splash {
-    background: #002b20;
-    overflow: hidden;
-    color: #fff;
-    margin-bottom: 45px;
-}
-    .home .splash {
-        background: #001711 url('/static/images/splash.jpg') no-repeat top center;
-    }
-    .home .splash .container {
-        height: 80vh;
-        position: relative;
-    }
-    .splash .welcome {
-        position: absolute;
-        bottom: 15%;
-        text-shadow: 1px 1px 2px #0a2f2b;
-    }
-    .splash .welcome h1 {
-        font-size: 2.75em;
-        line-height: 1.7em;
-        margin-bottom: 60px;
-    }
-    .splash .welcome h1 span {
-        display: block;
-        font-size: 2.2em;
-    }
-    .splash .welcome p {
-        max-width: 650px;
-        margin: 0 auto;
-        font-size: 1.4em;
-        line-height: 1.7em;
-        color: #eee;
-    }
-
-    .splash .hero h1 {
-        margin-top: 10vh;
-    }
-    .splash .hero p {
-        font-size: 1.2em;
-        line-height: 1.7em;
-        max-width: 450px;
-    }
-
 
 .header {
     margin: 0 auto;
-    margin-top: 30px;
-    display: flex;
-    flex-wrap: wrap;
+    border-bottom: 1px solid #eee;
+/*    box-shadow: 2px 2px 2px #eee;*/
 }
-    .wrap.page .header {
-        margin-bottom: 30px;
-    }
-    .header .logo, .header nav {
-        flex-grow: 1;
-    }
     .header nav {
         text-align: right;
         line-height: 1em;
     }
-    .header .logo {
-        font-weight: 500;
-        font-size: 1.5em;
+    .header .logo img {
+        padding-top: 10px;
+        max-height: 50px;
+        width: auto;
     }
     .header nav a {
         display: inline-block;
-        margin-left: 45px;
-        color: #fff;
+        margin-left: 60px;
         text-decoration: none;
-        padding-bottom: 2px;
+        padding: 15px 2px;
         border-bottom: 2px solid transparent;
     }
     .header nav a.active,
     .header nav a:hover {
-        border-bottom: 2px solid #fff;
+        border-bottom: 2px solid var(--primary);
     }
 
     #burger {
-        float: right;
         display: none;
+        position: absolute;
+        top: 15px;
+        right: 15px;
     }
         #burger span {
-            background: #fff;
+            background: var(--bg);
             display: block;
             height: 3px;
-            width: 25px;
-            margin-bottom: 4px;
+            width: 40px;
+            margin-bottom: 8px;
             border-radius: 2px;
         }
         #burger:hover {
             border: 0;
         }
         #burger:hover span {
-            background: #eee;
+            background: var(--primary);
         }
 
 .header .site-description nav {
@@ -335,6 +329,22 @@ ul.flat li {
     max-height: 15px;
 }
 
+.splash {
+    margin-top: -45px;
+}
+    .splash img {
+        border-radius: 0 0 5px 5px;
+    }
+
+.home .partners {
+    text-align: center;
+}
+    .home .partners img {
+        max-height: 40px;
+        display: inline-block;
+        margin: 10px 60px;
+    }
+
 .section .section-header {
     font-size: 0.75rem;
     font-weight: 600;
@@ -344,30 +354,20 @@ ul.flat li {
     letter-spacing: 1px;
 }
 
-.intro figure {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
+.page-title {
+    margin: 60px 0 60px 0;
 }
-    .intro {
-        text-align: center;
-        max-width: 600px;
-        margin-left: auto;
-        margin-right: auto;
-    }
 
 .blocks {
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
 }
     .blocks .box {
         padding: 30px;
         box-shadow: 1px 1px 4px #eee;
         border: 1px solid #eee;
         border-radius: 3px;
-        min-height: 375px;
+        min-height: 475px;
     }
     .blocks .box:hover {
         box-shadow-colour: #666;
@@ -375,51 +375,40 @@ ul.flat li {
     .blocks img {
         max-width: 164px;
     }
-
-.recent-blog {
-    margin: 0 auto 45px auto;
-}
-    .recent-blog .title {
-        margin: 0 0 15px 0;
+    .blocks h2 {
+        margin-top: 0;
     }
-    .recent-blog .date {
-        text-align: center;
-    }
-    .recent-blog .day {
-        font-weight: 600;
-        font-size: 2em;
-        display: block;
-        margin-bottom: 15px;
-    }
-    .recent-blog .months {
-        font-size: 0.85em;
-    }
-
-.post-content h1,
-.post-content h2,
-.post-content h3 {
-    margin: 1.5em 0 0.75em 0;
-}
 
 /* Pages */
-.people {
-    position: relative;
+
+.page-about .post-content {
+    max-width: 1000px;
 }
-    .people figure {
+
+.people {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+}
+    .people .block {
+        margin: 0 30px 30px 0;
         max-width: 150px;
     }
-    .people .bio,
+    .bio,
     .people .close-bio {
         display: none;
     }
     .people img {
-        display: block;
-        max-width: 100%;
+        display: inline-block;
+        max-width: 120px;
         border-radius: 4px;
         filter: grayscale(100);
     }
     .people .name {
-        margin-bottom: 0;
+        margin: 0;
+        line-height: 1.5rem;
+    }
+    .people .name a {
+        text-decoration: none;
     }
     .people .title {
         color: #999;
@@ -428,39 +417,29 @@ ul.flat li {
     .people .links a {
         margin-right: 15px;
     }
-    .people .open {
+
+    .bio.open {
         background: #fff;
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
+        position: fixed;
+
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
         z-index: 100;
         padding: 30px;
         margin: 0;
         max-width: 800px;
+        width: 100%;
 
         border: 1px solid #ddd;
         border-radius: 3px;
+        display: block;
     }
-        .people .open .bio {
-            display: block;
-        }
-        .people .open .open-bio {
-            display: none;
-        }
-        .people .open .close-bio {
-            display: block;
-        }
-        .people .open figure {
-            float: left;
-            margin-right: 30px;
+        .bio h3 {
+            margin: 0 0 15px 0;
         }
 
-    .people.small figure {
-        max-width: 115px;
-    }
-
-.project-list h4 {
+.investments h4 {
     margin: 0 0 5px 0;
 }
 
@@ -470,6 +449,7 @@ ul.flat li {
     line-height: 1.8em;
     color: #fff;
     padding: 45px 0;
+    margin-top: 45px;
 }
     .footer .container {
         max-width: 1250px;
@@ -532,68 +512,48 @@ ul.flat li {
     text-align: right;
 }
 
-@media (max-width: 1250px) {
-    .wrap {}
-    .home .content,
-    .container {
-        padding-left: 30px;
-        padding-right: 30px;
-        max-width: none;
+
+@media(max-width: 1300px) {
+    body {
+        padding: 10px 15px;
     }
-    .splash .welcome h1 {
-        font-size: 2em;
+    .header {
+        box-shadow: none;
     }
-    .splash .welcome h1 span {
-        font-size: 1.8em;
+    .footer {
+        padding: 30px;
     }
 }
+@media(max-width: 900px) {
+    .welcome .text {
+        padding-top: 60px;
+    }
+    .welcome h1 {
+        font-size: 3rem;
+        line-height: 3.5rem;
+    }
 
-@media (max-width: 750px) {
     #burger {
         display: block;
     }
     .header .nav {
-        background: #0a2f2b;
+        margin: 0;
+        padding: 0;
+    }
+    .header nav {
         display: none;
         width: 100%;
         z-index: 1000;
         border-radius: 3px;
-        padding: 15px;
+        padding: 0;
+        clear: both;
     }
-        .header .nav a {
+        .header nav a {
             display: block;
-            margin-bottom: 15px;
         }
         .header nav a.active,
         .header nav a:hover {
             border: none;
             text-decoration: underline;
         }
-
-    .people {
-        position: static;
-    }
-        .people .open {
-            position: fixed;
-            bottom: 0;
-        }
-
-    .home .splash .container {
-        height: auto;
-    }
-    .splash .welcome {
-        position: static;
-        padding: 45px 0;
-    }
-}
-
-
-@media (max-width: 650px) {
-    .people .open figure {
-        float: none;
-        margin: 0 0 30px 0;
-    }
-    .hero .image {
-        display: none;
-    }
 }

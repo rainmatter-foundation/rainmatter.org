@@ -39,50 +39,35 @@
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:wght@600&display=swap"
 		rel="stylesheet">
 
-	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}/static/grid.css" />
-	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}/static/style.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}/static/grid.css?v=2" />
+	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}/static/style.css?v=2" />
 </head>
 
 <body class="{{ .File.TranslationBaseName }}">
-	<div class="wrap {{ if .IsHome }}home{{ else }}page{{ end }}">
-		<div class="splash">
-			<div class="container">
-				<header class="header">
-					<div class="logo">
-						<a href="{{ .Site.BaseURL }}/"><img alt="Rainmatter Foundation"
-								src="{{ .Site.BaseURL }}/static/images/logo.svg" /></a>
-					</div>
-					<a href="#" id="burger"><span></span><span></span><span></span></a>
-					<nav class="nav">
-						{{ $cur := . }}
-						{{ range $.Site.Menus.header }}
-						{{ $active := in $cur.RelPermalink .URL }}
-						<a class="{{ if $active }} active {{ end }}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-						{{ end }}
-					</nav>
-				</header>
 
-				{{ if .IsHome }}
-				<div class="welcome">
-					<div>
-						<h1>A little more forest<span>everywhere.</span></h1>
-						<p>We support fellowships and organisations working for the environment, with a focus on afforestation,
-							ecological regeneration and livelihoods.</p>
-					</div>
-				</div>
-				{{ else if .IsPage }}
-				<div class="hero">
-					<div class="row">
-						<div class="four columns image">
-							<img src="/static/images/{{ .File.TranslationBaseName }}.png" alt="" />
-						</div>
-						<div class="eight columns">
-							<h1>{{ .Page.Title }}</h1>
-							<p>{{ .Page.Description }}</p>
-						</div>
-					</div>
-				</div>
-				{{ end }}
+<header class="header">
+	<div class="container">
+		<div class="row">
+			<div class="logo three columns">
+				<a href="{{ .Site.BaseURL }}/"><img alt="Rainmatter Foundation"
+						src="{{ .Site.BaseURL }}/static/images/logo-colour.svg" /></a>
 			</div>
-		</div><!-- splash -->
-		<div class="container content">
+			<a href="#" id="burger"><span></span><span></span><span></span></a>
+			<div class="nine columns nav">
+				<nav>
+					{{ $cur := . }}
+					{{ range $.Site.Menus.header }}
+					{{ $active := in $cur.RelPermalink .URL }}
+					<a class="{{ if $active }} active {{ end }}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+					{{ end }}
+				</nav>
+			</div>
+		</div>
+	</div>
+</header>
+
+<div class="wrap container {{ if .IsHome }}home{{ else }}page{{ end }} page-{{ .File.BaseFileName }}">
+	<div class="content">
+		{{ if .IsPage }}
+			<h1 class="page-title">{{ .Title }}</h1>
+		{{ end }}

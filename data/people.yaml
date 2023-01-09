@@ -47,52 +47,10 @@ som:
   photo: som.jpg
   bio: Som has a background in law, and is enthusiastic about all things around startups &amp; markets. He helps with legal matters at Rainmatter including reviewing and research of organisations, opportunities.
 
-seema:
-  name: Seema Patil
-  photo: seema.jpg
-  bio: Seema and her team helps evaluate organisations and social causes at Rainmatter and as a part of CSR at Zerodha.
-
-karthik:
-  name: Karthik Rangappa
-  photo: karthik.jpg
-  bio: Karthik actively volunteers at Rainmatter helping research and evaluate organisations and causes.
-
-gaurav:
-  name: Gaurav Kushwaha
-  photo: gaurav.jpg
-  bio: Gaurav handles press and media communications at Rainmatter and Zerodha. He is also a part of the Zerodha CSR team and helps with NGO partnerships.
-
-krutika:
-  name: Krutika T
-  photo: krutika.jpg
-  bio: Krutika creates designs, illustrations, and media at Rainmatter.
-
-karan:
-  name: Karan Sharma
-  photo: karan.jpg
-  bio: Karan helps maintain and run systems that keep Rainmatter online.
-
-vinay:
-  name: Vinay Kumar
-  photo: vinay.jpg
-  bio: Vinay works on equipping NGOs working with Rainmatter with tech.
-
 santhosh:
   name: Santhosh Kumar
   photo: santhosh.jpg
   bio: "Santhosh is a project coordinator for Rainmatter foundation. He works with stakeholders that enable sustainable livelihoods which in turn promote healthy natural systems. He enjoys doing small projects that give creative room for artists and techies to engage with communities in varied ecosystems in a collective fashion. He also pilots some of these projects on a personal enterprise mode."
-
-vishnu:
-  name: Vishnu S
-  photo: vishnu.jpg
-  bio: Vishnu helps maintain and run systems that keep Rainmatter online.
-
-akshay:
-  name: Akshay Kanthi
-  photo: akshay.jpg
-  bio: Akshay is a Tech Fellow for Rainmatter. His mandate is to get computers out of the way for organisations and individuals to let them do what they do best, ecological restoration. He did not study Chemical Engineering at college and instead spent time at his professor's organic farm learning about sustainable living. He's passionate about data ownership, open source and alternate education.
-  links:
-    LinkedIn: https://www.linkedin.com/in/akshaykanthi/
 
 ganeshram:
   name: Ganeshram
@@ -108,7 +66,7 @@ marisha:
   links:
     LinkedIn: https://www.linkedin.com/in/marisha-thakur-5a152771/
 
-lalani:
+rishabh_lalani:
   name: Rishabh Lalani
   photo: lalani.jpg
   bio: "Rishabh is an advisor at Rainmatter, where he supports in building linkages with the larger world, making meaningful connections with organisations, influencers and movements. His  work and passion unites in cultivating meaningful relationships for non-profit work of all kinds and at all scales, from those starting out in underserved communities to large institutions to complex collaboratives."
@@ -129,3 +87,13 @@ rishabh_verma:
   name: Rishabh Verma
   photo: rishabh_verma.jpg
   bio: "Rishabh believes in the need for radical re-imagination of our social and economic systems for real change to happen. He has some experience in developing deep tech solutions and leading a non-profit that sought to be an alternative to a college education. At Rainmatter, he works on strategy to understand how different initiatives fit together in the climate change puzzle. He also looks at creating open platforms for knowledge sharing around ecology, technology & strengthening local economies."
+
+viraj_patel:
+  name: Viraj Patel
+  photo: viraj.jpg
+  bio: Viraj has a legal background, and handles risk and compliance at Rainmatter. His drive for sustainability took shape while on a trek in 2017, when it became impossible to ignore the extensive damage caused to fragile Himalayan ecosystems on account of over-tourism and human excess.
+
+mohit_mehra:
+  name: Mohit Mehra
+  photo: mohit.jpg
+  bio: Mohit reviews projects, investments, and grants at Rainmatter. He is passionate about experiments with farming ideas and the development of livelihood skills.
