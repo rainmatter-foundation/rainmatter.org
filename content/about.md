@@ -30,7 +30,7 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "som" >}}
 	{{< person "varun" >}}
 	{{< person "vikas" >}}
-	{{< person "viraj_patel" >}}
+	{{< person "viraj_joshi" >}}
 </div>
 
 
