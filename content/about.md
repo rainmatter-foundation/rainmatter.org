@@ -28,6 +28,7 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "rishabh_lalani" >}}
 	{{< person "rishabh_verma" >}}
 	{{< person "som" >}}
+	{{< person "tanmayi_gidh" >}}
 	{{< person "varun" >}}
 	{{< person "vikas" >}}
 	{{< person "viraj_joshi" >}}
