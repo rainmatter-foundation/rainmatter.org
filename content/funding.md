@@ -14,7 +14,7 @@ description: "Monetary support for fellowships and organisations working for the
 - **Localized Production and Consumption** — Your organisation drives more local production and consumption, and boosts livelihood creation, especially outside tier-I cities.
 
 At Rainmatter Foundation, we believe that these are important directions to pursue, and would like to enable and support such efforts. 
-<a href="../grantees">See the list of funded projects</a>.
+<a href="../partners/">See the list of funded projects</a>.
 
 ## Organisational grants
 
