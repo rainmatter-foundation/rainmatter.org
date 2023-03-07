@@ -3,58 +3,78 @@
   url: https://swayyam.org/1000-tree-project-suvarna-yojane/
   description: A 100+ acre farmers’ collective at the edge of the Bandipur forest aims to transform a degraded landscape into a fertile terrain with sustainable water resource management. In addition, the initiative will strengthen and secure the livelihoods of farmers through an agroforestry approach.
   year: 2020
-  amount: 0
-  period: "1 year"
+  amount: 2.7
+  period: "2 years"
 
 - name: Wild Shaale @ Centre for Wildlife Studies
   url: https://cwsindia.org
   description: The Centre for Wildlife Studies has a long history of working in the buffer zones of some of the major forests across peninsular India, and innovating to help reduce the fallout of human-wildlife interactions in these zones, improve education and attitudes around the forest and wildlife, and research on and bring to the fore the connection between the pressure on the wild and zoonotic diseases. We decided to support CWS through a flexible, core grant. 
   year: 2020
+  amount: 1.75
+  period: "3 years"
 
 - name: Ecologically Sustainable Median Planting @ Center for Environment Concerns
   url: https://securingwaterforfood.org/innovators/swar-centre-for-environment-concerns
   description: Dr. K S Gopal is a pioneer who is driving an experiment for the ecologically sound planting of flora on a couple of kilometers of medians on main roads in Bengaluru. The aim is to support an ecosystem for birds and bees, use 50% less water, drastically bring down truck and road closure time, reduce costs for de-weeding, create biologically-rich healthy soils.
   year: 2020
+  amount: 0.25
+  period: "1 year"
 
 - name: Vidhi - Center for Legal Policy
   url: https://vidhilegalpolicy.in
   description: The law is where a lot of the detail lies. Whether for conservation or protection of our commons, it is important to understand how the laws around them are strengthened or weakened over time, and work to improve them. Vidhi Legal works in this space, both with the government and also in the larger interest of the common good, commenting and highlighting gaps and needs. During the course of Rainmatter Foundation’s journey, we realised this is an important area to support. We have also run a few sessions to help improve awareness around the policy and legal aspects of these issues. 
   year: 2021
+  amount: 0.6
+  period: "3 years"
 
 - name: Nature Conservation Foundation
   url: https://www.ncf-india.org
   description: The Nature Conservation Foundation has among the best known conservation and restoration researchers and practitioners. They are engaged in multiple distinct landscapes across India where the teams build evidence, practice with the community and also help citizens connect deeper with local biodiversity. NCF trains many to become naturalists and also anchors a community of restoration specialists. The Rainmatter Foundation decided to do core organisational support for three years, and also explore how their work could better inform mainstream restoration efforts in both wild and community-owned spaces. 
   year: 2021
+  amount: 6.9
+  period: "3 years"
 
 - name: ReapBenefit
   url: https://reapbenefit.org
   description: Reap Benefit is engaged in local problem solving for civic issues through its Solve Ninja program, which enables young people with tools, knowledge and networks. Rainmatter's funding was to enable a climate lens to this problem solving approach, creating playbooks and expanding their work to newer parts of the country through collaborations and partnerships.
   year: 2021
+  amount: 4.5
+  period: "3 years"
 
 - name: SayTrees
   url: https://www.saytrees.org
   description: SayTrees has a solid record for not only planting trees, but also getting various stakeholders involved in this. The Rainmatter Foundation’s support will enable the team to scale their efforts into agroforestry and landscape restoration at landscape- and collectivised-farm levels. This is a large push towards what is a major answer for both climate adaptation as well as mitigation. 
   year: 2021
+  amount: 1.65
+  period: "3 years"
 
 - name: Farmers for Forests
   url: https://www.farmersforforests.org
   description: Preserving old-growth and native trees is one of the best ways to build-in environment resilience. Can private land-owners and farmers be persuaded not to chop trees on their lands for money or for firewood, and instead nurture them if they were paid to do so? Farmers For Forests is pioneering the payments-for-ecosystem-services concept in India, and the Foundation's support is enabling them to try this with land-owners in Gadchiroli and Ratnagiri in Maharashtra.
   year: 2021
+  amount: 0.8
+  period: "3 years"
 
 - name: Waste Warriors
   url: https://wastewarriors.org
   description: Waste Warriors is involved in waste management efforts in parts of the Himalayas, an extremely eco-sensitive zone. The pristine environment is under pressure from increasing anthropogenic activities such as tourism. The Rainmatter Foundation is Waste Warriors for their waste management initiatives, awareness building and inputs for local waste management policies. 
   year: 2021
+  amount: 0.36
+  period: "3 years"
 
 - name: Palar Guttahalli Eco-restoration Program
   url: https://rotaryclubofbangalore.org/2021/05/07/palar-guttahalli-eco-restoration-program/
   description: The Palar River catchment areas have become arid and deforested, and the support to the Rotary Club has been planned as a participatory effort with the local community for restoration of the degraded land and management of the commons. 
   year: 2021
+  amount: 2.4
+  period: "5 years"
 
 - name: Media Grantees
   url: https://blog.rainmatter.org/the-power-of-messaging-as-a-climate-change-solution
   description: Successful ideas need to inhabit the mainstream conscious if they are to gain widespread acceptance. To this end, we support journalism, storytelling and messaging for various stakeholders in the mainstream.
   year: 2021
+  amount: 1.32
+  period: "3 years"
 
 - name: CSEI
   url: https://www.csei.org/
@@ -65,136 +85,190 @@
   url: https://www.dakshin.org/
   description: India’s long coastline tends to be a blindspot for policy and problem solving. Dakshin's Sea Change programme takes a holistic view of the coastline and assesses community needs from economic and ecological lens, and works with locals to meet the same. The Foundation is glad to support this focused approach and hopeful that these efforts will enable better resilience for a coastline that is under threat in so many ways.
   year: 2021
+  amount: 1.2
+  period: "5 years"
 
 - name: Technology for Wildlife Foundation
   url: https://www.techforwildlife.com/
   description: A small, focused team that brings technology to the conservation space, Technology for Wildlife Foundation has collaborated with numerous organisations and worked on many projects to enable a better understanding and tracking of the landscapes, do independent Environment Impact Assessments (EIAs), and more. The Foundation wanted to support this critical work and provided core organisational support.
   year: 2021
+  amount: 1.05
+  period: "3 years"
 
 - name: Uttarayan
   url: https://uttarayanwildlife.org/
   description: Ever heard of elephants raiding crops in farmlands? These kinds of human-animal interactions tend to be a costly affair for both creatures. Rainmatter Foundation funded  Uttarayan Wildlife to rope in farming communities to together restore degraded elephant corridors in southwest Bengal. We hope this effort is beneficial not only for the farmers but also for the elephants.
   year: 2021
+  amount: 2.5
+  period: "5 years"
 
 - name: Fields of View
   url: http://fieldsofview.in/
   description: Public policy is often thought of as complicated and complex. Fields of View uses games and simulations to make sense of policies and their impact both to policy makers and to the common person. Rainmatter has supported Fields of View to enable non-profits to make sense of systems thinking in the public sphere and enable changemakers to understand abstract ideas in actionable ways. 
   year: 2021
+  amount: 2.3
+  period: "3 years"
 
 - name: Sarjapura Curries
   url: https://www.facebook.com/samuhaa
   description: Suresh is an artist who set-up the Sarjapura Curries farm as an art installation that acknowledges and works with nature, improves the land it exists on and helps spread the message about our food diversity (both farmed and wild) amid many stakeholders in the community. The Rainmatter Foundation’s support will help with this small but really important initiative to demonstrate and strengthen this critical message.
   year: 2021
+  amount: 0.45
+  period: "3 years"
 
 - name: Sauramandala Foundation
   url: https://sauramandalain.wixsite.com/sauramandala
   description: If we have to address the climate crisis, we need, at scale, changemaking through place-based fellowships that take on myriad local problems and start to address them in sync with local governments, entrepreneurs, self-help groups (SHGs) and CSO partners. Sauramandala's model to create this and help other organisations with the same, appealed to the Foundation to step in and support.
   year: 2021
+  amount: 3.5
+  period: "3 years"
 
 - name: Janaagraha
   url: http://janaagraha.org/
   description: What does Urban Ecology even mean today? Do our cities acknowledge the role of ecology in their functioning, or the responsibility they carry towards it? Do we account for water, soil and biodiversity that matter to our existence as we set goals for our cities? How do citizens get involved, participate in both taking on responsibility and asking for accountability around this? In light of the climate crisis, the Foundation decided to support Janaagraha to take on these questions for policy inputs and urban planning.
   year: 2021
+  amount: 14
+  period: "5 years"
 
 - name: Socratus
   url: https://socratus.org/
   description: Can key influencers come together to look at certain problems from a longer term perspective? Can they work towards a shared vision and goals irrespective of their immediate, possibly divergent, needs? Socratus is the midwife of collective wisdom that attempts to solve wicked societal problems, and climate change is certainly one such wicked problem. The Rainmatter Foundation decided this is an important area for support.
   year: 2021
+  amount: 6
+  period: "3 years"
 
 - name: Nrityagram
   url: https://nrityagram.org/
   description: Rainmatter Foundation did a small grant for Nrityagram for their plan to demonstrate the baby steps that communities and campuses such as theirs can do to practically lower their water, food and energy footprints in their location. The intent is to show what a place of interest with high footfalls can do to spread awareness.
   year: 2021
+  amount: 0.4
+  period: "3 years"
 
 - name: SlamOutLoud
   url: https://slamoutloud.com
   description: What is water? What is air? Are they connected? Are they important? How does one talk to kids about the elements, about nature? Slam Out Loud builds open source climate learning resources for children, and with Rainmatter Foundation's support, trains educators in engaging kids with the environment.
   year: 2022
+  amount: 1.8
+  period: "3 years"
 
 - name: Buzz Women
   url: http://www.buzzwomen.org
   description: The creation of agency and the desire to take charge of one's own future is a critical piece of the climate puzzle. Buzz Women has been creating changemakers in over 5,000 villages in rural Karnataka. By supporting Buzz Women, the Foundation hopes to increase the awareness of both the sense of the house as well as of solutions that can help these changemakers drive climate adaptation and mitigation efforts in their respective communities. 
   year: 2022
+  amount: 6
+  period: "3 years"
 
 - name: Wassan
   url: https://www.wassan.org
   description: WASSAN’s farmer network, especially for rainfed regions, is among the largest in the country. The Rainmatter Foundation’s support is to provide an ecosystem of support to make it easy for farmers to shift to regenerative practices as well as to arrive at an assessment methodology for place-based indicators, a seed exchange platform, a bio-resource centre (BRC) and work on a hub-and-spoke model for farm tools and millet machines. 
   year: 2022
+  amount: 2.7
+  period: "2 years"
 
 - name: Biome Environmental Trust
   url: https://biometrust.org
   description: Rainmatter decided to support the Biome Trust chiefly to create an outreach and communications program to advocate the organisation's work in visibilising the problem of depleting groundwater and recharging aquifers, such as their Million Wells campaign for Bangalore. 
   year: 2022
+  amount: 1.2
+  period: "5 years"
   
 - name: Veditum
   url: https://www.veditum.org/
   description: Sand is among the most mined minerals on the planet. Rampant sand mining from riverbeds alters a river's ecology. While sand-mining is a regulated activity, on-ground, this is a thriving illegal trade. Illegal sand mining is an invisible problem since no data on sand-mining exists in India. The Foundation is supporting Veditum to build an open platform which will crowd-source information on sand-mining from primary sources in an attempt to quantify and visibilise this problem. 
   year: 2022
+  amount: 0.9
+  period: "3 years"
   
 - name: Tech4Good Community
   url: https://tech4goodcommunity.com/
   description: The Tech4Good Community runs a maturity model based program for non-profit organisations to embrace technological tools. The Foundation's support to Tech4Good Community is to bring in this tech readiness to the organisations we work with as well as to the larger non-profit community.
   year: 2022
+  amount: 0.75
+  period: "3 years"
   
 - name: CSTEP
   url: https://www.cstep.in/
   description: The Center for Study of Science, Technology and Policy (CSTEP) is a team of systems thinkers that research connected problems from a science and evidence lens, and inform policy about the same. Their modelling tools and approaches effectively enable decision making. The Rainmatter Foundation is in sync with their new focus on intersectionality across sectors for better policy inputs to address climate-related issues.
   year: 2022
+  amount: 11.5
+  period: "3 years"
 
 - name: PARI
   url: https://ruralindiaonline.org/en/
   description: Much of India is rural, and the rural seldom finds a place in mainstream media. PARI's coverage of rural India is an invaluable treasure. The Foundation's grant to PARI will enable the team to bolster their climate coverage of parts of India that are largely ignored by mainstream media. 
   year: 2022
+  amount: 0.9
+  period: "3 years"
   
 - name: Saahas
   url: http://www.saahas.org/
   description: Saahas helps communities manage their waste at source by reducing, reusing, and segregating.  
   year: 2022
+  amount: 1.2
+  period: "3 years"
   
 - name: RCRC
   url: https://www.rcrc.in/
   description: Waste management at source is critical to prevent pollution and deterioration of soil and water. The Foundation has supported Saahas to initially handhold and transition eight gram panchayats in Karnataka into model gram panchayats where waste will be segregated at source and recovered at material recovery facilities (MRFs) for sustainable solid waste management practices. The program is to be scaled to 100 gram panchayats in the two districts of Yadgir and Kalburgi alongwith relevant training and workshops. 
-  year: 2022  
+  year: 2022
+  amount: 6
+  period: "3 years"
   
 - name: Punarchith
   url: http://www.punarchith.org/
   description: Punarchith is located in Chamarajanagar, which is one of Karnataka’s most environmentally distressed districts. With Rainmatter Foundation’s support, Punarchith is continuing its restoration effort of a degraded plot of land in Nagavalli village. The place, called Angarike Maala, is a kind of a “living lab” for regenerative and traditional experiments be it for crop rotation, slash-and-burn, seed bank, bamboo construction and so on. The team is also engaging with the Solega community of BR Hills to document their language and traditional knowledge. 
-  year: 2022  
+  year: 2022
+  amount: 0.45
+  period: "3 years"
   
 - name: Aga Khan Rural Support Programme India (AKRSPI)
   url: https://www.akrspindia.org.in/home_homepage
   description: The notion of carbon markets as a way of green finance is rapidly gaining traction around the world. It hopes to ensure that the capital infusion through carbon markets helps smallholder farmers increase incomes while transitioning to more resilient ways of production. C-GEM is a new centre within the Aga Khan Rural Support Programme India (AKRSPI) which is working with different carbon funds and project developers to ensure that farmers have an equitable representation in designing the path forward for agriculture-based carbon and other payment-for-ecosystem services markets. 
   year: 2022
+  amount: 0.4
+  period: "1 year"
   
 - name: Hume Centre for Ecology and Wildlife Biology
   url: http://www.humecentre.in/
   description: The Hume Centre for Ecology and Wildlife Biology (Hume) has a unique approach towards making science accessible to local citizens primarily through their weather forecasting and school science program in Wayanad, Kerala. This is one of India’s aspirational districts. Rainmatter Foundation supported Hume to further this work and socialise this approach with other non-profits in the country. 
   year: 2022
+  amount: 1
+  period: "3 years"
   
 - name: T4G Labs
   url: https://t4glabs.org/
   description: T4G Labs brings technological expertise and frugal tools to help the non-profit sector fill program-delivery gaps, be it for data gathering for projects or program monitoring and management. It is also building a cadre of fellows to multiply this approach. Rainmatter Foundation supports T4G Labs’ core mission and purpose in furthering this work.
   year: 2022
+  amount: 1
+  period: "2 years"
   
 - name: Lipok
   url: https://lipok.org
   description: Lipok Social Foundation (LSF) works for improved and sustainable livelihoods of farmers in the Marathwada region of Maharashtra. With Rainmatter Foundation’s support, the organisation is piloting a project involving communities in five Gram Panchayats (village clusters) of Aurangabad district to identify and support potential enterprises emanating from their basket of needs; basked of needs is a loose framework to know and visibilise a cluster’s imports in an attempt to understand how many of these imports can be replaced by locally produced goods.
   year: 2022
+  amount: 0.05
+  period: "1 year"
   
 - name: Solid Waste Management Round Table (SWMRT) 
   url: https://www.swmrt.com
   description: SWMRT is a collective of solid-waste management (SWM) practitioners working since 2009 for adoption of sustainable waste management practices by citizens and municipalities, for improving public health, clean air and water, safe food, healthy soil and inclusive livelihoods. The Rainmatter Foundation has offered institutional support to SWMRT to build internal capacity and to help create similar organisations in other towns and cities for advocacy and training.
   year: 2022
+  amount: 0.9
+  period: "3 years"
   
 - name:  India Development Review (IDR)
   url: https://idronline.org
   description: IDR bridges a critical information, knowledge and sense-making gap in the  development sector, and so occupies a unique and niche position in the space. It counts among its readers sector professionals, funders, policy-makers, mainstream media and students. The Foundation decided to support IDR to adopt a climate lens to all its reporting, to build consensus on climate vocabulary among funders and host convenings of diverse stakeholders.
   year: 2022
+  amount: 0.4
+  period: "1 year"
   
 - name:  Civis
   url: https://www.civis.vote
   description: Civis makes it easy for the ordinary man to participate in the law-making and public consultation process. They do this by making proposed Bills and other pieces of legislation available on an online platform and making these easy-to-read, easy-to-understand and easy-to-give-feedback-on. The Rainmatter Foundation has supported Civis for a limited grant to create, publish and disseminate a primer i.e. a how-to guide, on environmental public consultation.
   year: 2022
+  amount: 0.06
+  period: "1 years"
   
 - name:  Himalaya Unnati Mission 
   url: https://savehimalayas.org
@@ -205,3 +279,5 @@
   url: https://www.industree.org.in
   description: Industree Foundation works with creative producers, mostly women, from marginalised communities in India and other parts of the globe. The Foundation has supported the organisation to enable development of value chains (know-how and capacity to use natural material to developing market connects) for natural resources such as bamboo and natural fibres and engage with a few states to enable friendly policies around such livelihood options. 
   year: 2022
+  amount: 19.3
+  period: "5 years"
