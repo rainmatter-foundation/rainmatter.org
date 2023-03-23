@@ -9,7 +9,6 @@ sameer:
 
 nithin:
   name: Nithin Kamath
-  title: Director
   photo: nithin.jpg
   bio: Nithin co-founded Rainmatter Foundation at Zerodha and constantly pushes the industry to think about climate and environment. He dreams of seeing a better distribution of wealth and a much greener planet. He loves cycling, trekking, and swimming in nature.
   links:
@@ -18,7 +17,6 @@ nithin:
 
 kailash:
   name: Kailash Nadh
-  title: Director
   photo: kailash.jpg
   bio: Kailash co-founded Rainmatter Foundation at Zerodha with Nithin, driven by his angst and despair about human callousness, environmental destruction, and climate change as a result. At the foundation, he helps with whatever is necessary to push its goals and vision forward. His life's trajectory and the biggest decisions in it are driven by his climate angst.
   links:
@@ -102,3 +100,13 @@ tanmayi_gidh:
   name: Tanmayi Gidh
   photo: tanmayi.jpg
   bio: Tanmayi is a knowledge and outreach associate at the foundation. She is curious about exploring the links between empowered communities and conservation, and sharing stories of people and the environment that can change the conversation. She loves tough terrains, building things from scratch, and unconventional stories.
+
+ashwini_herur:
+  name: Ashwini Herur
+  photo: ashwini.jpg
+  bio: Ashwini is passionate about social upliftment, education, and environmental issues. She helps the foundation team with governance and project assessments. She spent 10+ years in IT and education handling and learding human resource programs.
+
+om_jain:
+  name: Om Jain
+  photo: om.jpg
+  bio: Om is a finance professional with two deacdes of experience in accounting and finance. He guides the team on finance, compliance, and risk analysis. He has a keen interest in enabling people with education and knowledge. 

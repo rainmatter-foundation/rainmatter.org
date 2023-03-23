@@ -38,6 +38,14 @@ If you are experienced or passionate about this space and would like to work wit
 ## Directors
 
 <div class="people">
+	{{< person "ashwini_herur" >}}
+	{{< person "om_jain" >}}
+	{{< person "sameer" >}}
+</div>
+
+## Founding directors
+
+<div class="people">
 	{{< person "nithin" >}}
 	{{< person "kailash" >}}
 </div>
