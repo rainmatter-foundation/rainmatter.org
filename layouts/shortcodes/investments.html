@@ -17,7 +17,7 @@
         <div class="three columns amount text-small">
             {{ if $e.amount }}
                 <span class="amount">
-                    ₹{{ div $e.amount 10000000 }} crores
+                    ₹{{ div $e.amount 10000000.0 }}cr
                 </span>
             {{ end }}
             {{ if and $e.amount $e.period }}
