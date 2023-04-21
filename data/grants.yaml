@@ -76,9 +76,9 @@
   amount: 13200000
   period: "3 years"
 
-- name: CSEI
-  url: https://www.csei.org/
-  description: A lot of scientific research and knowledge as well as practitioner-led solutions tend to not be publicly accessible. The Centre for Social and Environment Innovation has taken on the challenge of making such knowledge available and actionable at scale, and also take the idea of hypothesis-led scalable pilots to governments and civil society organisations. The Foundation  realised that this is a major gap that needs to be filled and extended support. 
+- name: WELL Lab
+  url: https://welllabs.org/
+  description: A lot of scientific research and knowledge as well as practitioner-led solutions tend to not be publicly accessible. The Water, Environment, Land and Livelihoods (WELL) Labs (formerly known as the Centre for Social and Environment Innovation at ATREE) has taken on the challenge of making such knowledge available and actionable at scale, and also take the idea of hypothesis-led scalable pilots to governments and civil society organisations. The Foundation  realised that this is a major gap that needs to be filled and extended support.
   year: 2021
 
 - name: Dakshin Foundation
