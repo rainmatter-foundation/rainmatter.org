@@ -22,7 +22,6 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "sameer" >}}
 	{{< person "abhinav" >}}
 	{{< person "aishwarya" >}}
-	{{< person "dinesh" >}}
 	{{< person "marisha" >}}
 	{{< person "ganeshram" >}}
 	{{< person "mandeep" >}}
@@ -35,6 +34,8 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "varun" >}}
 	{{< person "vikas" >}}
 	{{< person "viraj_joshi" >}}
+	{{< person "dinesh" >}}
+	{{< person "sagar" >}}
 </div>
 
 
