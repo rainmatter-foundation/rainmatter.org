@@ -10,13 +10,6 @@ If you are an organisation working in this space and would like to partner with 
 
 --------------
 
-
-## Investments
-
-While we have been primarily focusing on grants for non-profit organizations chasing impact in the climate space, we have also met several startups trying to ideate and build in this space. You can check out all of our investments [here](https://rainmatter.com/climate/). 
-
---------------
-
 ## Grants 
 
 {{< investments "grants" >}}
@@ -27,3 +20,11 @@ While we have been primarily focusing on grants for non-profit organizations cha
 ## Fellowships 
 
 {{< investments "fellowships" >}}
+
+--------------
+
+## Investments
+
+While we have been primarily focusing on grants for non-profit organizations chasing impact in the climate space, we have also met several startups trying to ideate and build in this space. You can check out all of our investments [here](https://rainmatter.com/climate/). 
+
+--------------
