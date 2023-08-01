@@ -13,7 +13,7 @@ If you are an organisation working in this space and would like to partner with 
 
 ## Investments
 
-We are supporting climate startups looking to solve for various problems in the climate change space too. You can check out all of our investments [here](https://rainmatter.com/climate/) 
+While we have been primarily focusing on grants for non-profit organizations chasing impact in the climate space, we have also met several startups trying to ideate and build in this space. You can check out all of our investments [here](https://rainmatter.com/climate/). 
 
 --------------
 
