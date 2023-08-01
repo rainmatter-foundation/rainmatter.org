@@ -13,7 +13,7 @@ If you are an organisation working in this space and would like to partner with 
 
 ## Investments
 
-{{< investments "investments" >}}
+We are supporting climate startups looking to solve for various problems in the climate change space too. You can check out all of our investments [here](https://rainmatter.com/climate/) 
 
 --------------
 
