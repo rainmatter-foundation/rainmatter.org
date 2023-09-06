@@ -20,6 +20,7 @@ If you are experienced or passionate about this space and would like to work wit
 
 <div class="people">
 	{{< person "sameer" >}}
+	{{< person "rajiv" >}}
 	{{< person "abhinav" >}}
 	{{< person "aishwarya" >}}
 	{{< person "marisha" >}}
