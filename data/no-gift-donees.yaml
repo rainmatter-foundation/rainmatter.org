@@ -1,13 +1,13 @@
 ---
 - name: Charlies Animal Rescue Centre (CARE)
-  description: "Charlies Animal Rescue Centre – CARE is an animal shelter established in January 2013. It aims to provide timely medical aid to injured and ill animals on the streets of Bangalore city.
+  description: "Charlie's Animal Rescue Centre – CARE is an animal shelter established in January 2013. It aims to provide timely medical aid to injured and ill animals on the streets of Bangalore city.
 CARE is also home to many dogs, cats, rabbits, ducks, hens, pigs, guinea pigs, birds and terrapins. "
   url: https://charlies-care.com
   donate_url: https://pages.razorpay.com/CareDonationIndia
   image_url: care.png
 
 - name: Farmers for Forests
-  description: "A not-for-profit with the goal of revolutionizing India’s forestry sector to sequester carbon, support farmers, create green jobs and restore and protect fragile ecosystems. FFF works with communities and people who want to protect the forest in which they live."
+  description: "A not-for-profit with the goal of revolutionizing India’s forestry sector to sequester carbon, support farmers, create green jobs and restore and protect fragile ecosystems. FFF works with communities and people who want to protect the forest where they live."
   url: https://www.farmersforforests.org/
   donate_url: https://www.farmersforforests.org/protect-forests/
   image_url: farmers-for-forests.png
@@ -19,19 +19,25 @@ CARE is also home to many dogs, cats, rabbits, ducks, hens, pigs, guinea pigs, b
   image_url: ncf.png
 
 - name: SayTrees
-  description: "SayTrees, which does more than 50 tree plantation drives in 4 months of monsoon, spearheads a variety of initiatives including research, education, sensitisation and advocacy around the importance of environmental preservation and tree plantation. The group thrives on its vast volunteer base that runs into thousands, from young children to busy professionals, housewives and retired citizens."
+  description: "SayTrees, which does more than 50 tree plantation drives in 4 months of monsoon, spearheads a variety of initiatives, including research, education, sensitisation and advocacy around the importance of environmental preservation and tree plantation. The group thrives on its vast volunteer base that runs into thousands, from young children to busy professionals, housewives and retired citizens."
   url: https://saytrees.org
   donate_url: https://saytrees.org/donate
   image_url: saytrees.png
 
 - name: SVYM
-  description: "Swami Vivekananda Youth Movement (SVYM) is a development organisation engaged in building a new civil society in India through its grassroots to policy level action in health, education, socio economic empowerment and training and research sectors since 1984. The program runs 30+ projects touching the lives of nearly 3 million people across the state of Karnataka."
+  description: "Swami Vivekananda Youth Movement (SVYM) is a development organisation engaged in building a new civil society in India through its grassroots to policy level action in health, education, socio-economic empowerment and training and research sectors since 1984. The program runs 30+ projects touching the lives of nearly 3 million people across Karnataka."
   url: https://svym.org
   donate_url: https://svym.org/donate
   image_url: svym.png
 
 - name: Uttarayan Wildlife
-  description: "Uttarayan (Wildlife Wing), a 35+ yr old NGO working with people and ecosystem has been steadily building robust ecology across West Bengal. They partner with Rainmatter Foundation for Forest and landscape restoration in a participatory mode – the largest of its kind in India in parts of elephant corridors of South Bengal – a volatile field of man-elephant conflict. The NGO’s sole mission and vision has been to Revive,Regenerate and RESTORE fragmented landscapes and recreate rich biodiversity while balancing human needs."
+  description: "Uttarayan (Wildlife Wing), a 35+ yr old NGO working with people and ecosystem, has been steadily building robust ecology across West Bengal. They partner with Rainmatter Foundation for Forest and landscape restoration in a participatory mode – the largest of its kind in India in parts of elephant corridors of South Bengal – a volatile field of man-elephant conflict. The NGO’s sole mission and vision has been to Revive, Regenerate and Restore fragmented landscapes and recreate rich biodiversity while balancing human needs."
   url: https://uttarayanwildlife.org
   donate_url: https://r.give.do/PurxRWpe
   image_url: uttarayan.png
+
+- name: Buzz Women
+  description: "The creation of agency and the desire to take charge of one's own future is a critical piece of the climate puzzle. Buzz Women has been creating changemakers in over 5,000 villages in rural Karnataka. By supporting Buzz Women, the Foundation hopes to increase the awareness of both the sense of the house as well as of solutions that can help these changemakers drive climate adaptation and mitigation efforts in their respective communities."
+  url: https://www.buzzwomen.org/
+  donate_url: https://www.buzzwomen.org/give
+  image_url: Buzzwomen.png
