@@ -251,21 +251,21 @@
   
 - name: Solid Waste Management Round Table (SWMRT) 
   url: https://www.swmrt.com
-  description: SWMRT is a collective of solid-waste management (SWM) practitioners working since 2009 for adoption of sustainable waste management practices by citizens and municipalities, for improving public health, clean air and water, safe food, healthy soil and inclusive livelihoods. The Rainmatter Foundation has offered institutional support to SWMRT to build internal capacity and to help create similar organisations in other towns and cities for advocacy and training.
+  description: SWMRT is a collective of solid-waste management (SWM) practitioners working since 2009 for the adoption of sustainable waste management practices by citizens and municipalities, to improve public health, clean air and water, safe food, healthy soil and inclusive livelihoods. The Rainmatter Foundation has offered institutional support to SWMRT to build internal capacity and to help create similar organisations in other towns and cities for advocacy and training.
   year: 2022
   amount: 9000000
   period: "3 years"
   
 - name:  India Development Review (IDR)
   url: https://idronline.org
-  description: IDR bridges a critical information, knowledge and sense-making gap in the  development sector, and so occupies a unique and niche position in the space. It counts among its readers sector professionals, funders, policy-makers, mainstream media and students. The Foundation decided to support IDR to adopt a climate lens to all its reporting, to build consensus on climate vocabulary among funders and host convenings of diverse stakeholders.
+  description: IDR bridges a critical information, knowledge and sense-making gap in the  development sector, occupying a unique and niche position in the space. It counts among its readers sector professionals, funders, policy-makers, mainstream media and students. The Foundation decided to support IDR to adopt a climate lens to all its reporting, to build consensus on climate vocabulary among funders and host convenings of diverse stakeholders.
   year: 2022
   amount: 4000000
   period: "1 year"
   
 - name:  Civis
   url: https://www.civis.vote
-  description: Civis makes it easy for the ordinary man to participate in the law-making and public consultation process. They do this by making proposed Bills and other pieces of legislation available on an online platform and making these easy-to-read, easy-to-understand and easy-to-give-feedback-on. The Rainmatter Foundation has supported Civis for a limited grant to create, publish and disseminate a primer i.e. a how-to guide, on environmental public consultation.
+  description: Civis makes it easy for ordinary man to participate in the law-making and public consultation process. They do this by making proposed Bills and other pieces of legislation available on an online platform and making this easy-to-read, easy-to-understand and easy-to-give-feedback-on. The Rainmatter Foundation has supported Civis for a limited grant to create, publish and disseminate a primer i.e. a how-to guide, on environmental public consultation.
   year: 2022
   amount: 600000
   period: "1 years"
@@ -277,7 +277,28 @@
 
 - name:  IndusTree
   url: https://www.industree.org.in
-  description: Industree Foundation works with creative producers, mostly women, from marginalised communities in India and other parts of the globe. The Foundation has supported the organisation to enable development of value chains (know-how and capacity to use natural material to developing market connects) for natural resources such as bamboo and natural fibres and engage with a few states to enable friendly policies around such livelihood options. 
+  description: Industree Foundation works with creative producers, mostly women, from marginalised communities in India and other parts of the globe. The Foundation has supported the organisation to enable the development of value chains (know-how and capacity to use natural material to developing market connects) for natural resources such as bamboo and natural fibres and engage with a few states to enable friendly policies around such livelihood options. 
   year: 2022
   amount: 193000000
   period: "5 years"
+
+- name: Gram Vikas
+  url: https://www.gramvikas.org/
+  description: The Rainmatter Foundation supports Gram Vikas to develop an intersectional approach to localise climate-resilient actions in 1000 Gram Panchayats in Odisha. The initiative will record the impact of climate change on rural communities and strengthen their abilities to self-assess the changes, and accordingly take action. It will demonstrate climate-sensitive value chain measures in agriculture and non-farm production systems, develop Village Climate Action Plans as part of poverty reduction efforts, build evidence for use by other stakeholders, engage governments to adopt best practices into their programmes, and inform policies. 
+  year: 2023
+  Amount: 150000000
+  period: "5 years"
+
+- name: Goonj
+  url: https://goonj.org/
+  description: The Rainmatter Foundation’s support for Goonj is towards Gram Swabhiman - to foster village empowerment and development by catalysing collective participation, setting positive narratives, building environmental consciousness and capacitating youth to encourage a solution-based approach for complex issues such as environmental resilience. Goonj works on poverty alleviation, rural development, and disaster relief & rehab, by using the cities’ discards as a fuel for wide-spread development work across villages in India addressing issues around water, sanitation, agriculture, education and local infrastructure.
+  year: 2023
+  Amount: 120000000
+  period: "3 years"
+
+- name: Climate RISE Alliance
+  url: https://climaterise.in/
+  description: ClimateRISE Alliance is a collaborative platform that aims to accelerate India&#8216;s journey towards climate resilience for the most vulnerable communities. The Alliance currently comprises 65 civil society organisations, 10 intermediary groups, and six funders. By leveraging collective insights, the alliance is working to shape an India view of climate, a common vocabulary and enable a multi-stakeholder engagement approach to intersectional climate action in India.
+  year: 2023
+  Amount: 120000000
+  period: "5 years" 
