@@ -274,6 +274,8 @@
   url: https://savehimalayas.org
   description: The Foundation is supporting a programme office for the Himalaya Unnati Mission (HUM), which is an initiative to preserve, protect and resurrect the biological, economic and cultural  heritage of the Himalayan states in India. 
   year: 2022
+  amount: 15000000
+  period: "3 years"
 
 - name:  IndusTree
   url: https://www.industree.org.in
@@ -298,7 +300,7 @@
 
 - name: Climate RISE Alliance
   url: https://climaterise.in/
-  description: ClimateRISE Alliance is a collaborative platform that aims to accelerate India's journey towards climate resilience for the most vulnerable communities. The Alliance currently comprises 65 civil society organisations, 10 intermediary groups, and six funders. By leveraging collective insights, the alliance is working to shape an India view of climate, a common vocabulary and enable a multi-stakeholder engagement approach to intersectional climate action in India.
+  description: ClimateRISE Alliance is a collaborative platform that aims to accelerate our journey towards climate resilience for the most vulnerable communities. The Alliance comprises 65 civil society organisations, 10 intermediary groups, and six funders. By leveraging collective insights, the alliance is working to shape an India view of climate, a common vocabulary and enable a multi-stakeholder engagement approach to intersectional climate action in India.
   year: 2023
   Amount: 120000000
   period: "5 years" 
