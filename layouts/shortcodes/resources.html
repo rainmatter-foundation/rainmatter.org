@@ -1,0 +1,7 @@
+{{ with (index .Page.Site.Data.resources (.Get 0)) }}
+    <div class="poster">
+        <a class="fileupload" href="{{ .url}}" target="_blank">
+            <img alt="{{ .name }}" class="thumb-img" src="{{ .thumbnail }}">
+        </a>
+    </div>
+{{ end }}
