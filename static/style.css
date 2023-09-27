@@ -19,6 +19,14 @@ body {
     line-height: 1.7em;
     font-size: 18px;
 }
+.wrap {
+    min-height: 65vh;
+    display: flex;
+    flex-direction: column;
+    .content {
+        flex-grow: 1;
+    }
+}
 
 a {
     color: var(--primary);
@@ -441,6 +449,21 @@ ul.flat li {
         .bio h3 {
             margin: 0 0 15px 0;
         }
+
+.guidebook {
+    max-width: 450px;
+    margin-bottom: 30px;
+}
+.posters {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+}
+.posters .poster {
+    margin: 0 30px 30px 0;
+}
+.posters .poster img {
+    min-width: 160px;
+}
 
 .investments h4 {
     margin: 0 0 5px 0;
