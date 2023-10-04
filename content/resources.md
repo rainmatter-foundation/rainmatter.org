@@ -34,7 +34,7 @@ description: "Resources for Sustainable Lifestyle"
         </div>
     </div>
 </div>
-
+<hr />
 <h3 class="title">Posters</h3>
 <div class="row">
     You can view and download the posters to help maintain zero-waste offices.    
