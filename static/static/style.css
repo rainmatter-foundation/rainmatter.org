@@ -454,6 +454,10 @@ ul.flat li {
     max-width: 450px;
     margin-bottom: 30px;
 }
+img.thumb-img {
+    border: 1px solid #eee;
+    box-shadow: 2px 2px 11px #eee
+}
 .posters {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
