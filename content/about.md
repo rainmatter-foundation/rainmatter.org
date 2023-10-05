@@ -5,7 +5,7 @@ menu: "about"
 description: ""
 ---
 
-Founded in 2019, we are a non-profit organisation that supports organisations and projects for climate action,
+Founded in 2021, we are a non-profit organisation that supports organisations and projects for climate action,
 a healthier environment, and livelihoods associated with them.  We recognise that climate change is the biggest
 existential threat to life as we know it. We have committed to using the resources available to us to enable,
 and to attempt to replicate at scale, the potential solutions that may help address at least some of these threats,
