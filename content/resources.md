@@ -47,3 +47,25 @@ description: "Resources for Sustainable Lifestyle"
     {{< resources "poster5" >}}
     {{< resources "poster6" >}}
 </div>
+<hr />
+<h3 class="title"><a href="https://www.civis.vote/">Climate Voices Handbook by Civis</a></h3>
+<div class="row">
+    <div class="ten columns">
+    </div>
+</div>
+
+<div class="row">
+    <div class="five columns">
+        <div class="guidebook">
+            {{< resources "poster7" >}}
+        </div>
+    </div>
+    <div class="five columns">
+        <div class="guidebook-download">
+            Rainmatter partner Civis a community-driven non-profit platform that encourages citizen participation in the lawmaking process by enabling people’s feedback on laws and policy decisions, and through awareness generation, and education on matters of civic importance.<br/><br/>
+            The ‘Climate Voices’ is a go-to guide for anyone who wants to make a difference in India’s environmental law-making and play an active role shaping our climate policies. Through real-life examples of individuals, communities, and civil society organizations, readers can discover how public consultations give a voice to everyone, allowing them to express their views and interests on how their environment should be managed.<br/><br/>
+            The handbook explores the roles and responsibilities of three stakeholders - citizens, civil society and media, in co-creating India’s environmental laws by participating in public consultations on draft legislation.<br/><br/>
+            <a href="https://drive.google.com/uc?export=view&id=1mzpiCKEyT4Lg17tHm2uAzfRdkn8A1q64" class="button">Download</a>
+        </div>
+    </div>
+</div>
