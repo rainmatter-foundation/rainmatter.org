@@ -473,6 +473,28 @@ img.thumb-img {
     margin: 0 0 5px 0;
 }
 
+.disclosure-ol {
+    padding-left: 0;
+    list-style-type: none;
+    counter-reset: item; /* Create new counter */
+}
+
+.disclosure-ol > li {
+    counter-increment: item; /* Increment the counter */
+}
+
+.disclosure-ol > li .title::before {
+    content: counter(item) ". "; /* Add the counter before the h3 content */
+    font-size: 1.6rem; /* Adjust this to match the font size of your h3 tags */
+    line-height: 1.5em;
+}
+ol.disclosure-inner-ol > li {
+    list-style-type: none;
+    display: flex;
+}
+.disclosure-inner-ol li span:nth-child(2) {
+    margin-left: 8px;
+}
 .footer {
     background: var(--bg);
     font-size: 0.85em;
