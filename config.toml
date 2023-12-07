@@ -37,22 +37,16 @@ subtitle = "Non-profit working on environment, climate change, green livelihood 
       weight = 4
 
    [[menu.header]]
-      identifier = "disclosure"
-      name = "Disclosure"
-      url = "/disclosure"
-      weight = 5
-
-   [[menu.header]]
       identifier = "blog"
       name = "Blog"
       url = "https://blog.rainmatter.org"
-      weight = 6
+      weight = 5
 
    [[menu.header]]
       identifier = ""
       name = "Forum"
       url = "https://grove.rainmatter.org"
-      weight = 7
+      weight = 6
 
 [markup.goldmark.renderer]
    unsafe= true
