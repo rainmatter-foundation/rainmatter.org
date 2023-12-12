@@ -48,7 +48,7 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "sameer" >}}
 </div>
 
-## Founding directors
+## Founders
 
 <div class="people">
 	{{< person "nithin" >}}
