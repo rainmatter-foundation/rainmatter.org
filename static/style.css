@@ -172,6 +172,14 @@ h6 {
         margin-top: 30px;
     }
 
+.rf-video {
+    text-align: center;
+}
+    .rf-video iframe {
+        width: 100%;
+        aspect-ratio: 16/9;
+    }
+
 .intro-points li {
     border-left: 8px solid #eee;
     padding-left: 30px;
@@ -237,7 +245,7 @@ h6 {
 section {
     margin-bottom: 120px;
 }
-    section.border {   
+    section.border {
         padding-bottom: 75px;
         border-bottom: 1px solid #eee;
     }
