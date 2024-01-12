@@ -324,7 +324,7 @@
   description: The Rainmatter Foundation is funding Gram Vaani to implement the CoRE stack (Commoning for Resilience and Equality), a digital public good to empower communities to plan and manage their local landscapes and natural resources in a socio-ecological manner. Being built in a collaborative manner in partnership with IIT Delhi and other partners, the CoRE stack also aims to provide foundational support to the Indian ecosystem of development organizations to innovate and scale new participatory technologies that can enable pathways for a climate resilient future with a focus on fairness, inclusivity, and environmental sustainability. Gram Vaani is committed towards taking a community-based approach to technology use and management, and has empowered millions of citizens from rural and low-income communities to claim their rights, share information, and participate towards building a vibrant democracy from the grassroots. (Optional)
   year: 2023
   amount: 7500000
- period: "1 year"
+  period: "1 year"
 
 - name: All Living Things Environmental Film Festival (ALT EFF)
   url:  https://www.alteff.in/
@@ -332,7 +332,7 @@
   year: 2023
   amount: 18000000
   period: "3 years"
-
+  
 - name: Ashoka Trust for Research in Ecology and the Environment (ATREE)
   url: https://www.atree.org/
   description: ATREE is a globally recognised non-profit  organisation focused on environmental conservation and sustainable, socially just development. ATREE engages in the generation and dissemination of rigorous interdisciplinary knowledge that informs and is informed by the needs of grassroots communities, policymakers and the wider public. It prioritises capacity-building for producing the next generation of scholars and leaders.
