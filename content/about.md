@@ -27,13 +27,12 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "ganeshram" >}}
 	{{< person "mandeep" >}}
 	{{< person "mohit_mehra" >}}
-	{{< person "rishabh_lalani" >}}
-	{{< person "rishabh_verma" >}}
 	{{< person "siddharth" >}}
 	{{< person "som" >}}
 	{{< person "tanmayi_gidh" >}}
 	{{< person "varun" >}}
 	{{< person "vikas" >}}
+	{{< person "shoaib" >}}
 	{{< person "viraj_joshi" >}}
 	{{< person "dinesh" >}}
 	{{< person "sagar" >}}
