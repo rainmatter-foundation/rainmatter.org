@@ -22,7 +22,6 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "sameer" >}}
 	{{< person "rajiv" >}}
 	{{< person "abhinav" >}}
-	{{< person "aishwarya" >}}
 	{{< person "marisha" >}}
 	{{< person "ganeshram" >}}
 	{{< person "mandeep" >}}
@@ -69,7 +68,7 @@ one of the first things he does is to setup proper seggregation of waste in the 
 This is the seed that eventually germinates into the Rainmatter Foundation. Over the next many years,
 a climate angst and grief ridden Kailash has endless conversations with [Nithin](https://nithinkamath.me) about its perils.
 Along the way, many business practices and decisions at Zerodha are based on the principles of minimalism and frugality,
-including an early push to eliminate the use of paper in what was a heavily paper dependent industry. 
+including an early push to eliminate the use of paper in what was a heavily paper dependent industry.
 
 ### 2015
 By 2015, they are actively meeting people to understand how to support initiatives beyond the business
