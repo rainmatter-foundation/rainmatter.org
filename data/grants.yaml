@@ -376,48 +376,43 @@
   period: "5 years"
 
 - name: Gurukula Botanical Sanctuary 
-url: https://www.gbsanctuary.org/
-description: Gurukula Botanical Sanctuary (GBS) is a community-based conservation centre in Wayanad, Kerala, concerned with plant conservation, habitat restoration, nature education and ecological advocacy. It is a practical hands-on demonstration of best practice in horticultural techniques for plant species conservation, as well as complementary strategies in rewilding that support human community and the rainforest biome. GBS seeks to consolidate its mission in conservation and education through a School of Ecological Nurturance in partnership with Rainmatter Foundation.
-year: 2024
-amount: 5000000
-Period: "1 year"
+  url: https://www.gbsanctuary.org/
+  description: Gurukula Botanical Sanctuary (GBS) is a community-based conservation centre in Wayanad, Kerala, concerned with plant conservation, habitat restoration, nature education and ecological advocacy. It is a practical hands-on demonstration of best practice in horticultural techniques for plant species conservation, as well as complementary strategies in rewilding that support human community and the rainforest biome. GBS seeks to consolidate its mission in conservation and education through a School of Ecological Nurturance in partnership with Rainmatter Foundation.
+  year: 2024
+  amount: 5000000
+  period: "1 year"
 
 - name: Sustainable Futures Collective 
-url: https://www.sustainablefutures.org/
-description: The Sustainable Futures Collaborative (SFC) is an independent research organisation analysing issues at the frontier of addressing climate change, managing the energy transition, and limiting environmental threats in India and globally. We focus on the systemic changes required for India’s transition to a sustainable, just, and resilient economy and society. In these areas, we identify upstream policy levers that, when activated, can drive downstream impact at scale
-year: 2024
-amount: 120000000
-Period: "3 years"
+  url: https://www.sustainablefutures.org/
+  description: The Sustainable Futures Collaborative (SFC) is an independent research organisation analysing issues at the frontier of addressing climate change, managing the energy transition, and limiting environmental threats in India and globally. We focus on the systemic changes required for India’s transition to a sustainable, just, and resilient economy and society. In these areas, we identify upstream policy levers that, when activated, can drive downstream impact at scale
+  year: 2024
+  amount: 120000000
+  period: "3 years"
 
 - name: Shola Trust 
-url: https://www.thesholatrust.org/
-description: The Shola Trust is a non-profit conservation organisation in the Nilgiri Biosphere Reserve of South India. Based in Gudalur, at the edge of the Mudumalai Tiger Reserve, it was set up in 2007 to promote human-inclusive models of nature conservation, inspired by the unique high altitude sholas of the Nilgiris and its people. They are committed to preserving indigenous knowledge, practices, and beliefs relevant to conservation, working closely with local communities to integrate this traditional wisdom into conservation. 
-year: 2024
-amount: 10000000
-Period: "1 year"
+  url: https://www.thesholatrust.org/
+  description: The Shola Trust is a non-profit conservation organisation in the Nilgiri Biosphere Reserve of South India. Based in Gudalur, at the edge of the Mudumalai Tiger Reserve, it was set up in 2007 to promote human-inclusive models of nature conservation, inspired by the unique high altitude sholas of the Nilgiris and its people. They are committed to preserving indigenous knowledge, practices, and beliefs relevant to conservation, working closely with local communities to integrate this traditional wisdom into conservation. 
+  year: 2024
+  amount: 10000000
+  period: "1 year"
 
 - name: Biodiversity Collaborative
-url: https://www.biodiversitycollaborative.org/
-description: The Biodiversity Collaborative is a network of individuals and organisations engaged in biodiversity science and conservation that have come together to demonstrate, advocate and highlight the linkages between conservation, sustainable use of biodiversity, and human well-being. 
-year: 2024
-amount: 50000000
-Period: "2 years"
-
+  url: https://www.biodiversitycollaborative.org/
+  description: The Biodiversity Collaborative is a network of individuals and organisations engaged in biodiversity science and conservation that have come together to demonstrate, advocate and highlight the linkages between conservation, sustainable use of biodiversity, and human well-being. 
+  year: 2024
+  amount: 50000000
+  period: "2 years"
+ 
 - name: Shivganga Samagra Gramvikas Parishad
-url: https://new.shivgangajhabua.org/#/
-description: Shivganga is an innovative intervention in the Jhabua-Alirajpur region of Madhya Pradesh, focusing on holistic village development through community strengths rather than weaknesses. Founded by Shri Mahesh Sharma, Shivganga Samagra Gramvikas Parishad engages 3000 volunteers to connect over 1,500 villages, nurturing social capital and sustainable growth. By tapping into the wisdom and resilience of the tribal community, Shivganga awakens the inherent Parmarth ka Bhav, responsible for their Swabhiman, making them Swavalambi, leading to Akshay Vikas, the globally talked about, Sustainable Development. 
-Through initiatives such as youth empowerment camps and community-led projects in Water Conservation, Afforestation, Organic Farming, and Healthcare, Shivganga revitalizes traditional practices and empowers communities to thrive in the face of challenges. Recognized for its significant impact, Shivganga continues to lead in community-driven development, envisioning a future where every village serves as a hub for comprehensive learning and progress.
-year: 2024
-amount: 60000000
-Period: "3 years"
+  url: https://new.shivgangajhabua.org/#/
+  description: Shivganga is an innovative intervention in the Jhabua-Alirajpur region of Madhya Pradesh, focusing on holistic village development through community strengths rather than weaknesses. Founded by Shri Mahesh Sharma, Shivganga Samagra Gramvikas Parishad engages 3000 volunteers to connect over 1,500 villages, nurturing social capital and sustainable growth. By tapping into the wisdom and resilience of the tribal community, Shivganga awakens the inherent Parmarth ka Bhav, responsible for their Swabhiman, making them Swavalambi, leading to Akshay Vikas, the globally talked about, Sustainable Development. Through initiatives such as youth empowerment camps and community-led projects in Water Conservation, Afforestation, Organic Farming, and Healthcare, Shivganga revitalizes traditional practices and empowers communities to thrive in the face of challenges. Recognized for its significant impact, Shivganga continues to lead in community-driven development, envisioning a future where every village serves as a hub for comprehensive learning and progress.
+  year: 2024
+  amount: 60000000
+  period: "3 years"
 
 - name: Ecological Restoration Alliance 
-url: https://era-india.org/
-description: Ecological Restoration Alliance India (ERA-India), is an informal partnership of individuals, organisations and groups working together to foster knowledge and practice of ecological restoration of natural ecosystems in India. The goals of the Alliance are to collate and share knowledge, experience, and case studies of ecological restoration of natural ecosystems across India. Through this ERA-India aims to create, expand, inform, and enable civil society, government, and citizenry engaged in appropriate and effective ecological restoration nationwide. ERA-India envisages a future where anyone anywhere in India can restore their native landscapes.
-year: 2024
-amount: 65000000
-Period: "3 years"
-
-
-
-
+  url: https://era-india.org/
+  description: Ecological Restoration Alliance India (ERA-India), is an informal partnership of individuals, organisations and groups working together to foster knowledge and practice of ecological restoration of natural ecosystems in India. The goals of the Alliance are to collate and share knowledge, experience, and case studies of ecological restoration of natural ecosystems across India. Through this ERA-India aims to create, expand, inform, and enable civil society, government, and citizenry engaged in appropriate and effective ecological restoration nationwide. ERA-India envisages a future where anyone anywhere in India can restore their native landscapes.
+  year: 2024
+  amount: 65000000
+  period: "3 years"
