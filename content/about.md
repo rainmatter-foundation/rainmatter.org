@@ -22,7 +22,6 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "sameer" >}}
 	{{< person "rajiv" >}}
 	{{< person "abhinav" >}}
-	{{< person "marisha" >}}
 	{{< person "ganeshram" >}}
 	{{< person "mandeep" >}}
 	{{< person "mohit_mehra" >}}
@@ -35,15 +34,20 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "viraj_joshi" >}}
 	{{< person "dinesh" >}}
 	{{< person "sagar" >}}
+	{{< person "akshatha_narayana" >}}
+	{{< person "nayantara_lakshman" >}}
+	{{< person "sailee_rane" >}}
+	{{< person "siddharth_lahri" >}}
+	{{< person "sathyanarayanan_shankaran" >}}
 </div>
 
 
 ## Directors
 
 <div class="people">
-	{{< person "ashwini_herur" >}}
-	{{< person "om_jain" >}}
 	{{< person "sameer" >}}
+	{{< person "kailash" >}}
+	{{< person "seema" >}}
 </div>
 
 ## Founders

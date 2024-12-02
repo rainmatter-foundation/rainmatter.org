@@ -30,6 +30,11 @@ dinesh:
   links:
     LinkedIn: https://www.linkedin.com/in/paidinesh1
 
+seema:
+  name: Seema Patil
+  photo: seema.jpg
+  bio: Seema is curious about climate challenges that we face and wants to spend time learning from all the non-profit organisations working on solutions that are long term and sustainable.
+
 shoaib:
   name: Mohammed Shoaib
   photo: shoaib.jpg
@@ -116,3 +121,28 @@ rajiv:
   links:
     LinkedIn: https://www.linkedin.com/in/rajivprakashnextin
     Twitter: https://twitter.com/rajivprakash
+
+akshatha_narayana:
+  name: Akshatha Narayana
+  photo: akshatha.jpg
+  bio: Akshatha is an architect whose passion for art and built environment with locally rooted knowledge fuse seamlessly with her interest in consciously built spaces. Hailing from coastal region, she often finds herself painting in the laps of nature. At Rainmatter, she focuses on how can we build better built environment and also works for Rural Change.
+
+nayantara_lakshman:
+  name: Nayantara Lakshman
+  photo: nayantara.jpg
+  bio: Nayantara is working at Rainmatter Foundation, exploring new ways to conserve and restore natural ecosystems through systems thinking.
+
+sailee_rane:
+  name: Sailee Rane
+  photo: sailee.jpg
+  bio: Sailee focuses on' Ecosystem messaging' at Rainmatter. She has previously worked in consulting, Fintech and investments in climate. She is currently trying to answer the question of the most effective way to talk about climate change and its related issues to different stakeholders to drive the changes we need. She is passionate about simplifying narratives around environment and climate and writes a newsletter 'Sunny climate Stormy climate' with the aim to make climate change a part of daily conversations.
+
+siddharth_lahri:
+  name: Siddharth Lahri
+  photo: siddharth_lahri.jpg
+  bio: Siddharth works in the CEO's office, focusing on grant strategies and building ecosystems with a climate-conscious approach. Having grown up in one of India's most polluted districts, he's driven by a desire to make a difference and explore solutions. Always eager for a conversation, Siddharth enjoys connecting with others and sharing a laugh.
+
+sathyanarayanan_shankaran:
+  name: Sathyanarayanan Shankaran
+  photo: sathyanarayanan.jpg
+  bio: Sathya is the strategy lead for the Urban vertical at the Foundation. He brings three decades of experience in using tech and data to solve Urban issues in Mobility and Energy. Apart from his work with Rainmatter, he is the architect of AltMo, a gamified mobility intelligence platform for the future of climate friendly cities, and the host of India's premiere urban affairs podcast, OoruLabs. He is an adjunct faculty teaching Urban Governance for masters students, a Director at the waste management startup, Bioman and the Bicycle Mayor of Bengaluru.
