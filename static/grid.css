@@ -9,10 +9,13 @@ author: Karan Sharma
 .container {
   position: relative;
   width: 100%;
-  max-width: 1300px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 10px;
   box-sizing: border-box;
+}
+.container-mini {
+  max-width: 800px;
 }
 
 .row {
