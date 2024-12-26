@@ -25,9 +25,9 @@ subtitle = "Non-profit working on environment, climate change, green livelihood 
       weight = 2
 
    [[menu.header]]
-      identifier = "funding"
-      name = "Funding"
-      url = "/funding"
+      identifier = "thesis"
+      name = "Thesis"
+      url = "/thesis"
       weight = 3
 
    [[menu.header]]

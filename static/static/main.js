@@ -58,4 +58,14 @@
 				entry.remove();
 			});
 	}
+
+	// "Read more".
+    document.querySelectorAll('a.read-more').forEach(link => {
+        link.addEventListener('click', e => {
+            e.preventDefault();
+
+            const el = document.getElementById(link.dataset.target);
+           	el.style.display = el.style.display === 'block' ? 'none' : 'block';
+        });
+    });
 })();

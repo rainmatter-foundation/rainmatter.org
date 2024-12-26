@@ -404,7 +404,7 @@
   period: "2 years"
  
 - name: Shivganga Samagra Gramvikas Parishad
-  url: https://new.shivgangajhabua.org/#/
+  url: https://new.shivgangajhabua.org
   description: Shivganga is an innovative intervention in the Jhabua-Alirajpur region of Madhya Pradesh, focusing on holistic village development through community strengths rather than weaknesses. Founded by Shri Mahesh Sharma, Shivganga Samagra Gramvikas Parishad engages 3000 volunteers to connect over 1,500 villages, nurturing social capital and sustainable growth. By tapping into the wisdom and resilience of the tribal community, Shivganga awakens the inherent Parmarth ka Bhav, responsible for their Swabhiman, making them Swavalambi, leading to Akshay Vikas, the globally talked about, Sustainable Development. Through initiatives such as youth empowerment camps and community-led projects in Water Conservation, Afforestation, Organic Farming, and Healthcare, Shivganga revitalizes traditional practices and empowers communities to thrive in the face of challenges. Recognized for its significant impact, Shivganga continues to lead in community-driven development, envisioning a future where every village serves as a hub for comprehensive learning and progress.
   year: 2024
   amount: 60000000
@@ -416,3 +416,45 @@
   year: 2024
   amount: 65000000
   period: "3 years"
+
+- name: Sahjeevan
+  url: https://sahjeevan.org
+  description: A grassroots community organization based in Kutch, Gujarat that works with pastoralists to achieve conservation and restoration goals. Sahjeevan focuses on empowering local communities through Community Forest Resource Management Committees (CFRMCs) and Biodiversity Management Committees, enabling them to conserve landscapes they rely on. They focus on integrating long-term conservation into collective consciousness, addressing India's conservation and restoration challenges through collaboration
+  year: 2024
+  amount: 35000000
+  period: "3 years"
+
+- name: WCS, India
+  url: https://india.wcs.org
+  description: WCS-India envisions a natural world where ecosystems and communities coexist sustainably. The organization focuses on conserving and restoring wildlife and habitats across India through evidence-based actions. The organization's approach is data-driven, leveraging scientific research for effective conservation. The organization engages local communities as essential partners in conservation efforts. The organization uses technology and strategic partnerships to address environmental challenges and foster preservation.
+  year: 2024
+  amount: 65000000
+  period: "3 years"
+
+- name: Transform Rural India Foundation (TRIF)
+  url: https://trif.org
+  description: TRIF is an organization focusing on Rural livelihoods by working at the conjunction of Samaaj, Sarkaar, Bazar. It seeks to transform conditions and opportunities in "locality" for human flourishing, places where residents can meet their aspirations and lead a life of dignity. Their founding belief is that communities' own initiative and aspiration is central to the process of "transformation". Through convergent societal action it is possible to trigger a process of "new socialization", fostering synergistic state <> Private Sector <> community interrelationships, bringing in new normative behaviour which creates fertile ground for rural communities to transform themselves.
+  year: 2024
+  amount: 170000000
+  period: "5 years"
+
+- name: Malabar Awareness and Rescue Center for Wildlife (MARC)
+  url: https://marcforwildlife.com
+  description: MARC is an informal network of wildlife rescuers and researchers trying to solve human-wildlife conflict in Kannur, Kerala. In addition to rescue and rehabilitation efforts, MARC also conducts awareness programs to educate citizens about the importance of wildlife conservation. They also collect data on these interactions and help government departments in their efforts to mitigate conflict. These programs equip citizens with the knowledge needed to handle chance encounters with wildlife and provide immediate responses to facilitate rescue and rehabilitation, thereby preventing negative interactions.
+  year: 2024
+  amount: 3000000
+  period: "3 years"
+
+- name: Udyam Foundation
+  url: https://udym.org
+  description: Udhyam Vyapaar's mission is to help Vyapaaris scale their businesses, make them successful in life, and move them towards their highest human potential. The long-term vision is to make entrepreneurship respectable and aspirational for Bharat.
+  year: 2024
+  amount: 8000000
+  period: "3 years"
+
+- name: Youth Conservation Action Network (YouCAN)
+  url: https://www.youcan.in
+  description: YouCAN is working towards creating an India with an educator in every community who teaches students stewardship for the land they live on – a new generation of educators rooted in the wisdom of their place and its community. They dream of such an India by 2047, our country's 100th year of independence. With this mission in mind, they have been nurturing a community-led fellowship ecosystem since 2018 for India's emerging educators to power a better conservation education system for our country.
+  year: 2024
+  amount: 58000000
+  period: "3.5 years"

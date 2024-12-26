@@ -1,0 +1,5 @@
+{{ $id := math.Mod (now.UnixNano) 10000 }}
+<div class="read-more">
+    <div id="more-{{ $id }}" style="display: none;">{{ .Inner }}</div>
+    <a href="#" data-target="more-{{ $id }}" class="read-more">Read more</a>
+</div>
