@@ -21,13 +21,9 @@ If you are experienced or passionate about this space and would like to work wit
 <div class="people">
 	{{< person "sameer" >}}
 	{{< person "rajiv" >}}
-	{{< person "abhinav" >}}
-	{{< person "ganeshram" >}}
-	{{< person "mandeep" >}}
 	{{< person "mohit_mehra" >}}
 	{{< person "siddharth" >}}
 	{{< person "som" >}}
-	{{< person "tanmayi_gidh" >}}
 	{{< person "varun" >}}
 	{{< person "vikas" >}}
 	{{< person "shoaib" >}}
@@ -39,6 +35,9 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "sailee_rane" >}}
 	{{< person "siddharth_lahri" >}}
 	{{< person "sathyanarayanan_shankaran" >}}
+	{{< person "tanmay_mukherji" >}}
+	{{< person "vartika_goel" >}}
+	{{< person "spoorthi" >}}
 </div>
 
 
