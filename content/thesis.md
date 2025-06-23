@@ -68,6 +68,18 @@ In essence, we want to support storytelling that can inspire action over despair
 
 ---------
 
+## Building
+
+Buildings shape the way we live, use energy, and relate to our environment. In India, where urbanisation and infrastructure growth are accelerating, how we build—what materials we use, how we design spaces, and whose knowledge we include—has deep and long-lasting implications. Construction is not only a significant contributor to environmental impact, but also closely linked to local economies, cultural practices, and how communities prepare for and respond to climate challenges.
+
+{{% readmore %}}
+The built environment offers one of the most immediate and tangible opportunities to shift from extractive practices to regenerative ones. By focusing on buildings, we hope to support a transition toward long-term resilience and wellbeing. This means supporting approaches that prioritise thermal comfort, resource efficiency, low ecological footprint, and adaptability to climate realities—moving beyond the narrow lens of decarbonisation or short-term fixes.
+
+This shift calls for rethinking systems—how knowledge is created and shared, how decisions are made, and how policies, finance, and industry can align with ecological and social goals. We support efforts that build collective intelligence, enable better data and standards, amplify rooted and traditional methods, and create collaborative platforms for practitioners, policymakers, and communities. At its heart, the built environment is a long-term conversation—and one that shapes what futures are possible.
+{{% /readmore %}}
+
+---------
+
 # Partnerships
 
 We partner with organizations that are working towards the focus areas outlined above. We believe we need to create ecosystems that are focused on solving these challenges and look forward to supporting organizations that are contributing to such ecosystems. Our support can take many forms, including funding. 
