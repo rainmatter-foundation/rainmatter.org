@@ -459,6 +459,20 @@
   amount: 5500000
   period: "1 year"
 
+- name: Platform for Commons
+  url: https://platformforcommons.org/
+  description: Platform for Commons builds digital platforms that create equitable opportunities for people, communities, and impact-driven businesses. They offer a wide range of services, including consulting, digital platforms, and bespoke applications. Rainmatter Foundation has offered institutional support for their work in the space of building platforms for regenerative agriculture.
+  year: 2024
+  amount: 6600000
+  period: "1 year"
+
+- name: Lipok Social Foundation (LSF)
+  url: https://lipok.org/
+  description: The Lipok Social Foundation (LSF) is a grassroots organization working to build resilient rural economies by helping communities understand and localize their consumption patterns. As part of the Green Rural Economy and Basket of Needs modules, Lipok is developing the “Gram Chakra” tool to help villages assess their resource needs and production capacities. The team plays a catalytic role in enabling local entrepreneurship and is actively supporting other organizations through training, capacity building, and consulting. Lipok is also contributing to the GRE Solution Hub with toolkits and insights for replication. Their work is rooted in the ACRE framework and has already led to over 40 enterprises across six villages.
+  year: 2024
+  amount: 4800000
+  period: "3 years"
+
 - name: Nature Conservation Foundation (NCF)
   url: https://www.ncf-india.org/
   description: The Nature Conservation Foundation is among the best known conservation and restoration researchers and practitioners. They are engaged in multiple distinct landscapes across India where the teams build evidence, practice with the community and also help citizens connect deeper with local biodiversity. NCF trains many to become naturalists and also anchors a community of restoration specialists.
@@ -486,17 +500,3 @@
   year: 2025
   amount: 11300000
   period: "1 year"
-
-- name: Platform for Commons
-  url: https://platformforcommons.org/
-  description: Platform for Commons builds digital platforms that create equitable opportunities for people, communities, and impact-driven businesses. They offer a wide range of services, including consulting, digital platforms, and bespoke applications. Rainmatter Foundation has offered institutional support for their work in the space of building platforms for regenerative agriculture.
-  year: 2024
-  amount: 6600000
-  period: "1 year"
-
-- name: Lipok Social Foundation (LSF)
-  url: https://lipok.org/
-  description: The Lipok Social Foundation (LSF) is a grassroots organization working to build resilient rural economies by helping communities understand and localize their consumption patterns. As part of the Green Rural Economy and Basket of Needs modules, Lipok is developing the “Gram Chakra” tool to help villages assess their resource needs and production capacities. The team plays a catalytic role in enabling local entrepreneurship and is actively supporting other organizations through training, capacity building, and consulting. Lipok is also contributing to the GRE Solution Hub with toolkits and insights for replication. Their work is rooted in the ACRE framework and has already led to over 40 enterprises across six villages.
-  year: 2024
-  amount: 4800000
-  period: "3 years"
