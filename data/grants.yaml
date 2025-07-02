@@ -458,3 +458,10 @@
   year: 2024
   amount: 5500000
   period: "1 year"
+
+- name: Nature Conservation Foundation (NCF)
+  url: https://www.ncf-india.org/
+  description: The Nature Conservation Foundation is among the best known conservation and restoration researchers and practitioners. They are engaged in multiple distinct landscapes across India where the teams build evidence, practice with the community and also help citizens connect deeper with local biodiversity. NCF trains many to become naturalists and also anchors a community of restoration specialists.
+  year: 2025
+  amount: 170000000
+  period: "5 years"
