@@ -40,6 +40,7 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "spoorthi" >}}
 	{{< person "medha" >}}
 	{{< person "ashwin_kulkarni" >}}
+	{{< person "sandilya" >}}
 </div>
 
 
