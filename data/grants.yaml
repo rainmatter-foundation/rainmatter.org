@@ -480,13 +480,6 @@
   amount: 170000000
   period: "5 years"
 
-- name: Forum for the Future
-  url: https://www.forumforthefuture.org/
-  description: Forum for the Future is a global sustainability non-profit with over 25 years of experience convening diverse actors to tackle complex systemic challenges. Through its Responsible Energy Initiative, Forum has played a key role in shaping a more people-centric and ecologically safe renewable energy transition. The forum is building a multi-stakeholder alliance focused on the social, environmental, and geopolitical dimensions of transition minerals like lithium, cobalt, and nickel — critical resources for the net zero pathway. The alliance seeks to foster collaboration across industry, civil society, and government to ensure that the minerals powering the energy future are sourced responsibly and equitably, with a strong emphasis on circularity, community wellbeing, and systemic resilience.
-  year: 2025
-  amount: 5000000
-  period: "6 months"
-
 - name: India Civic Summit (Oorvani Foundation)
   url: https://oorvani.org/civic-summit
   description: Oorvani Foundation is committed to civic engagement, citizenship and communities. Their mission is to connect people who want better cities with civic information, tools, networks and resources they need to make it happen.
@@ -500,3 +493,10 @@
   year: 2025
   amount: 11300000
   period: "1 year"
+
+- name: Saath Charitable Trust
+  url: https://saath.org/
+  description: Saath is an urban resilience initiative integrating communities working in informal sectors into sustainable city ecosystems. It focuses on economic empowerment, climate action, and circular economy. Our partnership is to support their work in building multipurpose cooperatives as a self-sustaining infrastructure to enable climate adaptation for informal settlements
+  year: 2025
+  amount: 30667254
+  period: "5 year"
