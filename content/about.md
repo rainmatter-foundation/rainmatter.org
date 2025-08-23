@@ -38,7 +38,6 @@ If you are experienced or passionate about this space and would like to work wit
 	{{< person "tanmay_mukherji" >}}
 	{{< person "vartika_goel" >}}
 	{{< person "spoorthi" >}}
-	{{< person "medha" >}}
 	{{< person "ashwin_kulkarni" >}}
 	{{< person "sandilya" >}}
 </div>
