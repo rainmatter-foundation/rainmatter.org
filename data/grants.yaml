@@ -500,3 +500,39 @@
   year: 2025
   amount: 30600000
   period: "5 year"
+
+- - name: Deloitte India
+  url: https://www.deloitte.com/in/en.html
+  description: Rainmatter Foundation and Deloitte India have joined forces to bring systems thinking to the forefront of how climate solutions are designed and implemented. This collaboration aims to highlight grounded, field-tested insights and place-based approach in building climate solutions. At the same time, it’s about breaking down silos between industry, CSOs and the government to rethink how we engage with our environment, economy, and each other.
+  year: 2025
+  amount: 7500000
+  period: "1 year"
+
+- name: Paani Foundation
+  url: https://www.paanifoundation.in/
+  description: Paani Foundation is creating an ecosystem to mobilise farmers and villages to build a water-abundant future for themselves. Through knowledge-sharing and incentive-driven competition, the foundation is empowering communities to break free from the cycle of thirst, hunger, debt, and forced migration.
+  year: 2025
+  amount: 120000000
+  period: "3 year"
+
+- name: The Climate Narrative Hub
+  url: https://climatenarrativehub.notion.site/The-Climate-Narrative-Hub-225f08c9056080188df0f02d7aaf3779
+  description: The Climate Narrative Hub seeks to redefine India's climate story by bridging hyperlocal, community voices and larger thematic priorities. By bringing together community perspectives, expert opinion, policy priorities, media and philanthropic action, the hub aims to transform how the changing climate is felt, understood and reflected in the mainstream.
+  year: 2025
+  amount: 75000000
+  period: "1 year"
+
+- name: Bridgespan India
+  url: https://www.bridgespan.org/insights/community-driven-change-africa-and-india
+  description: Bridgespan India is building a Community Ownership Action Hub to deeply embed the place-ownership approach in the ecosystem, and inform and inspire greater funding towards community-driven change (CDC). The goal is to become an accelerator for greater adoption of CDC by enabling organisations to design and scale CDC models through capacity enablement and peer learning.
+  year: 2025
+  amount: 10000000
+  period: "1 year"
+
+- name: Praja
+  url: https://www.praja.org/
+  description: Praja is a non-partisan organisation working towards enabling accountable governance. The Prajatantra Program for Urban Leadership (PPUL) is designed to address gaps in governance at the grassroots by developing a network of trained urban leaders who can navigate governance complexities, optimise municipal finance, and drive climate-responsive development.
+  year: 2025
+  amount: 75000000
+  period: "3 year"
+
