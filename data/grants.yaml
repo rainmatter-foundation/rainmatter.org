@@ -535,3 +535,38 @@
   year: 2025
   amount: ""
   period: "3 year"
+
+- name: Janaagraha
+  url: https://www.janaagraha.org/
+  description: For nearly 25 years, Janaagraha has been working with a mission to transform quality of life in India’s cities and towns. Their strengths lie in municipal finance, government capacity building, and unlocking of funds to enable effective delivery of municipal services. An integral part of their city-systems work is making it easier for citizens to actively participate in the governance of their neighbourhoods and cities. With Rainmatter Foundation’s support, they are creating climate-friendly city action plans in 10 cities of Assam which will be taken to many other states.
+  year: 2025
+  amount: ""
+  period: "4 years"
+
+- name: Socratus
+  url: https://socratus.org/
+  description: Through the Neighbourhood Initiative, Socratus is focusing on nurturing long-term, place-based change. The initiative engages and empowers people by combining physical and digital infrastructure, innovative experience centres, and a revival of collective wisdom within the neighbourhood. This approach embeds sustainable choices in people’s everyday environments and nurtures values beyond self-interest to strengthen community responsibility. It’s a step towards building subsidiarity.
+  year: 2025
+  amount: ""
+  period: "5 years"
+
+- name: Kalpavriksh
+  url: https://kalpavriksh.org/
+  description: Kalpavriksh is the force behind Vikalp Sangam (Confluence of Alternatives), and aims to support the creation of Alternative Decentres—physical spaces that bring together people practising or conceiving alternatives across sectors like ecology, education, health, justice, livelihood, market/trade, governance, and more. The platform offers space to constructively challenge and learn from each other, build alliances, collectively evolve alternative futures, bring forward community solutions, and apply in one’s own context.
+  year: 2025
+  amount: ""
+  period: "1 year"
+
+- name: Akshayakalpa Foundation
+  url: https://akshayakalpa.org
+  description: Akshaykalpa Foundation promotes regenerative farming practices that restore soil health, increase biodiversity, conserve water, reduce chemical dependency, and strengthen local economies. From agroecology to fair market access, our partnership supports their work in building resilient farming communities where long-term sustainable practices lead to better incomes, healthier ecosystems, and food security that lasts.
+  year: 2025
+  amount: ""
+  period: "5 years"
+
+- name: Ethos Foundation
+  url: https://ethosfoundation.in/arcause/
+  description: Ethos Foundation, under Arcause (Our Cause), reimagines design education to be more grounded, inclusive, and connected to real-world challenges. With over 400 architecture colleges, they are building a community where young designers learn to see buildings as tools for climate adaptation, comfort, and equity. Partnering with the Ethos Foundation is important for the future of the built environment in India because they integrate sustainability and design as tools for solving societal and environmental problems into the way young ACEDs (Architects, Civil Engineers, Designers, and others) are trained, connected, and exposed.
+  year: 2025
+  amount: ""
+  period: "1 year"
