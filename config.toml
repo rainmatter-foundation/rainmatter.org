@@ -25,15 +25,15 @@ subtitle = "Non-profit working on environment, climate change, green livelihood 
       weight = 2
 
    [[menu.header]]
-      identifier = "thesis"
-      name = "Thesis"
-      url = "/thesis"
+      identifier = "place-thesis"
+      name = "Place Thesis"
+      url = "/place-thesis"
       weight = 3
 
    [[menu.header]]
-      identifier = "resources"
-      name = "Resources"
-      url = "/resources"
+      identifier = "thesis"
+      name = "Focus Areas"
+      url = "/focus-areas"
       weight = 4
 
    [[menu.header]]
