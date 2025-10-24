@@ -92,7 +92,9 @@ We also provide fellowships to individuals working in the climate space whose wo
 
 <a href="https://forms.rainmatter.org/initial-enquiry-form/new" class="button">Get in touch</a>
 
-### iii. Investments
+---------
+
+# Investments
 We believe that businesses will have to recognise that taking climate action is an urgent and critical need, and that there is an opportunity for smart entrepreneurs to create businesses that are profitable and have positive impacts on the planet.
 
 We invest in startups working in this area via our investment company, [Rainmatter Capital](https://rainmatter.com). If you are a startup or an organisation working in this area looking for funding, [please send an application](https://forms.gle/88D9cKMan27qa5R57).
