@@ -88,12 +88,14 @@ We partner with organizations that are working towards the focus areas outlined 
 Grants typically extend over a three to five year period. Rainamtter typically provides unrestricted funding, giving the organisation and partners the freedom to make decisions important for their work, while our team works closely with them to align on a common vision. 
 
 ### ii. Fellowships
-We also provide fellowships to individuals working in the climate space whose work aligns with our thesis.
+We also provide fellowships to individuals working in the climate space whose work aligns with our thesis. 
+
+<a href="https://forms.rainmatter.org/initial-enquiry-form/new" class="button">Get in touch</a>
 
 ### iii. Investments
 We believe that businesses will have to recognise that taking climate action is an urgent and critical need, and that there is an opportunity for smart entrepreneurs to create businesses that are profitable and have positive impacts on the planet.
 
-We invest in startups working in this area via our investment company, [Rainmatter Capital](https://rainmatter.com). If you are a startup or an organisation working in this area looking for funding, please send an application.
+We invest in startups working in this area via our investment company, [Rainmatter Capital](https://rainmatter.com). If you are a startup or an organisation working in this area looking for funding, [please send an application](https://forms.gle/88D9cKMan27qa5R57).
 
-<a href="https://forms.gle/88D9cKMan27qa5R57" class="button">Apply</a>
+
 
