@@ -3,6 +3,9 @@ title: "Focus Areas"
 type: "page"
 menu: "focus-areas"
 description: "Rainmatter Foundation's climate thesis."
+aliases:
+  - /thesis
+  - /thesis/
 ---
 
 
