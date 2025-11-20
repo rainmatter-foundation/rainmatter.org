@@ -1,7 +1,10 @@
 baseURL = "https://rainmatter.org"
 languageCode = "en-us"
 title = "Rainmatter Foundation"
-paginate = 10
+
+[pagination]
+pagerSize = 10
+
 googleAnalytics = ""
 
 [params]

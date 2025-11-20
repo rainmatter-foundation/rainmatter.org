@@ -1,6 +1,5 @@
 ---
 title: "The No Corporate Gift Box Pledge"
-type: "page"
 description: "Avoid corporate gift boxes that pollute. Instead, support a worthy cause for the next festive season."
 type: no-gift
 ---

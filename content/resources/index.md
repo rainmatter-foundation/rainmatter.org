@@ -1,9 +1,27 @@
 ---
-title: "Resources for Sustainable Lifestyle"
+title: ""
 type: "page"
 menu: "resources"
 description: "Resources for Sustainable Lifestyle"
 ---
+
+<h3 class="title">The state of climate response in India</h3>
+
+<div class="row">
+    <div class="five columns">
+        <div class="guidebook">
+            {{< resources "poster8" >}}
+        </div>
+    </div>
+    <div class="five columns">
+        <div class="guidebook-download">
+            A collaborative initiative by Deloitte India and Rainmatter Foundation, the report is a call-to-action for businesses, governments, innovators, and policymakers to lead the shift to a climate resilient future.<br/><br/>
+            Rapid urbanisation, shifting rainfall, and rising temperatures pose real threats to food systems, water security, and power supply. But these same challenges present an opportunity to embed resilience into the country’s growth story. Businesses can unlock new opportunities for resilience and innovation by embracing interconnected complexity that climate change poses and coming out of silos. Actions must permeate every decision, from sourcing and materials to product lifecycles and efficiency.<br/><br/>
+            Read the report to dive deeper into climate change indicators, interconnected risks, citizen survey, corporate readiness survey, case studies, and pathways to act. [<a href="/resources/the-state-of-climate-response-in-india">Read more</a>]<br/><br/>
+            <a href="https://drive.google.com/file/d/1kCBUXHjitnGkuEsNupLbmk1Vs5M0Y5h8/" class="button">Download</a>
+        </div>
+    </div>
+</div>
 
 <h3 class="title">Zero Waste Offices</h3>
 

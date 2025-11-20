@@ -43,7 +43,7 @@
 	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}/static/style.css?v=2" />
 </head>
 
-<body class="{{ .File.TranslationBaseName }}">
+<body class="{{ with .File }}{{ .TranslationBaseName }}{{ end }}">
 
 <header class="header">
 	<div class="container">
@@ -66,7 +66,7 @@
 	</div>
 </header>
 
-<div class="wrap container {{ if .IsHome }}home{{ else }}page{{ end }} page-{{ .File.BaseFileName }}">
+<div class="wrap container {{ if .IsHome }}home{{ else }}page{{ end }}{{ with .File }} page-{{ .BaseFileName }}{{ end }}">
 	<div class="content">
 		{{ if .IsPage }}
 			<h1 class="page-title">{{ .Title }}</h1>
