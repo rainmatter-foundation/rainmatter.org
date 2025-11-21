@@ -5,8 +5,6 @@ type = "page"
 menu = "resources"
 +++
 
-<h3 class="title">The state of climate response in India</h3>
-
 <div class="row">
     <div class="five columns">
         <div class="guidebook">
