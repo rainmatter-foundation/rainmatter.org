@@ -1,0 +1,42 @@
+{
+  "poster1": {
+    "name": "Poster 1",
+    "url": "https://drive.google.com/uc?export=view&id=14pGQKAFZ-blTRj_Kxxf3w-XKGoVj0b90",
+    "photo": "poster1.jpg"
+  },
+  "poster2": {
+    "name": "Poster 2",
+    "url": "https://drive.google.com/uc?export=view&id=1frstWUk3Hi260UTGNlyGKsxQNM4Fynpw",
+    "photo": "poster2.jpg"
+  },
+  "poster3": {
+    "name": "Poster 3",
+    "url": "https://drive.google.com/uc?export=view&id=1OEEGpAr_ZcVBqA30fO-WNPxr4Qo8Tu-w",
+    "photo": "poster3.jpg"
+  },
+  "poster4": {
+    "name": "Poster 4",
+    "url": "https://drive.google.com/uc?export=view&id=1XfkEpYar3ET2Br8eWIlAYQvekcGwItnS",
+    "photo": "poster4.jpg"
+  },
+  "poster5": {
+    "name": "Poster 5",
+    "url": "https://drive.google.com/uc?export=view&id=1quU4O1MREXkC-Iy93BwYnBxNwnNOPasj",
+    "photo": "poster5.jpg"
+  },
+  "poster6": {
+    "name": "Poster 6",
+    "url": "https://drive.google.com/uc?export=view&id=1oeO2a1-qFnRy5UiUpTq7aROTS7T1MjE7",
+    "photo": "poster6.jpg"
+  },
+  "poster7": {
+    "name": "Poster 7",
+    "url": "https://drive.google.com/uc?export=view&id=1mzpiCKEyT4Lg17tHm2uAzfRdkn8A1q64",
+    "photo": "poster7.jpg"
+  },
+  "poster8": {
+    "name": "Poster 8",
+    "url": "https://drive.google.com/file/d/1kCBUXHjitnGkuEsNupLbmk1Vs5M0Y5h8/",
+    "photo": "poster8.jpg"
+  }
+}
