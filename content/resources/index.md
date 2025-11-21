@@ -1,5 +1,5 @@
 +++
-title = "Resources for Sustainable Lifestyle"
+title = "Resources"
 type = "page"
 menu = "resources"
 description = "Resources for Sustainable Lifestyle"
