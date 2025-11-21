@@ -1,0 +1,47 @@
+{% set people_data = load_data(path="static/data/people.json") %}
+{% set person = people_data[id] %}
+{% if person %}
+<div class="block">
+    <figure>
+        <a href="#" class="open-bio" data-target="bio-{{ id }}">
+            <img src="/static/images/people/{{ person.photo }}" alt="{{ person.name }}">
+        </a>
+        <p class="name">
+            <a href="#" class="open-bio" data-target="bio-{{ id }}">{{ person.name }}</a>
+            {% if person.title %}
+                <span class="title">{{ person.title }}</span>
+            {% endif %}
+        </p>
+    </figure>
+</div>
+
+<div class="box bio" id="bio-{{ id }}">
+    <div class="row">
+        <div class="three columns">
+            <figure>
+                <img src="/static/images/people/{{ person.photo }}" alt="{{ person.name }}">
+                <p class="name">
+                    {% if person.title %}
+                    <span class="title">{{ person.title }}</span>
+                    {% endif %}
+                </p>
+            </figure>
+        </div>
+        <div class="nine columns">
+            <h3>{{ person.name }}</h3>
+            {{ person.bio | safe }}
+
+            {% if person.links %}
+                <p class="links text-small">
+                    {% for name, url in person.links %}
+                        <a href="{{ url }}">{{ name }}</a>
+                    {% endfor %}
+                </p>
+            {% endif %}
+
+            <br />
+            <p><a href="#" class="button close-bio">Close</a></p>
+        </div>
+    </div>
+</div>
+{% endif %}

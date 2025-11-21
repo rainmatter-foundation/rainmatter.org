@@ -1,9 +1,9 @@
----
-title: "The Place Lens: Care & Concern with Trade-offs"
-type: "page"
-menu: "place-thesis"
-description: "The Place Lens: Care & Concern with Trade-offs."
----
++++
+title = "The Place Lens: Care & Concern with Trade-offs"
+type = "page"
+menu = "place-thesis"
+description = "The Place Lens: Care & Concern with Trade-offs."
++++
 
 As a species we’re problem solvers. We solve problems at every level of society, multiple times every day. We make choices, and as we make those, we make trade-offs. Increasingly over the last few centuries we have done this in ever narrower silos and as specialists optimizing for “our” variables at the cost of many others.
 

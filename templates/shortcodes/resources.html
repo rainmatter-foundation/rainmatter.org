@@ -1,0 +1,9 @@
+{% set resources_data = load_data(path="static/data/resources.json") %}
+{% set resource = resources_data[id] %}
+{% if resource %}
+<div class="poster">
+    <a class="fileupload" href="{{ resource.url }}" target="_blank">
+        <img alt="{{ resource.name }}" class="thumb-img" src="/static/images/resources/{{ resource.photo }}">
+    </a>
+</div>
+{% endif %}

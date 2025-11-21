@@ -1,9 +1,9 @@
----
-title: "About us"
-type: "page"
-menu: "about"
-description: ""
----
++++
+title = "About us"
+type = "page"
+menu = "about"
+description = ""
++++
 
 Founded in 2021, we are a non-profit organisation that supports organisations and projects for climate action,
 a healthier environment, and livelihoods associated with them.  We recognise that climate change is the biggest
@@ -19,43 +19,43 @@ If you are experienced or passionate about this space and would like to work wit
 ## Team
 
 <div class="people">
-	{{< person "sameer" >}}
-	{{< person "rajiv" >}}
-	{{< person "mohit_mehra" >}}
-	{{< person "siddharth" >}}
-	{{< person "som" >}}
-	{{< person "varun" >}}
-	{{< person "vikas" >}}
-	{{< person "shoaib" >}}
-	{{< person "viraj_joshi" >}}
-	{{< person "dinesh" >}}
-	{{< person "sagar" >}}
-	{{< person "akshatha_narayana" >}}
-	{{< person "nayantara_lakshman" >}}
-	{{< person "sailee_rane" >}}
-	{{< person "siddharth_lahri" >}}
-	{{< person "sathyanarayanan_shankaran" >}}
-	{{< person "tanmay_mukherji" >}}
-	{{< person "vartika_goel" >}}
-	{{< person "spoorthi" >}}
-	{{< person "ashwin_kulkarni" >}}
-	{{< person "sandilya" >}}
+	{{ person(id="sameer") }}
+	{{ person(id="rajiv") }}
+	{{ person(id="mohit_mehra") }}
+	{{ person(id="siddharth") }}
+	{{ person(id="som") }}
+	{{ person(id="varun") }}
+	{{ person(id="vikas") }}
+	{{ person(id="shoaib") }}
+	{{ person(id="viraj_joshi") }}
+	{{ person(id="dinesh") }}
+	{{ person(id="sagar") }}
+	{{ person(id="akshatha_narayana") }}
+	{{ person(id="nayantara_lakshman") }}
+	{{ person(id="sailee_rane") }}
+	{{ person(id="siddharth_lahri") }}
+	{{ person(id="sathyanarayanan_shankaran") }}
+	{{ person(id="tanmay_mukherji") }}
+	{{ person(id="vartika_goel") }}
+	{{ person(id="spoorthi") }}
+	{{ person(id="ashwin_kulkarni") }}
+	{{ person(id="sandilya") }}
 </div>
 
 
 ## Directors
 
 <div class="people">
-	{{< person "sameer" >}}
-	{{< person "kailash" >}}
-	{{< person "seema" >}}
+	{{ person(id="sameer") }}
+	{{ person(id="kailash") }}
+	{{ person(id="seema") }}
 </div>
 
 ## Founders
 
 <div class="people">
-	{{< person "nithin" >}}
-	{{< person "kailash" >}}
+	{{ person(id="nithin") }}
+	{{ person(id="kailash") }}
 </div>
 
 # Our journey

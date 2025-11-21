@@ -1,12 +1,9 @@
----
-title: "Focus Areas"
-type: "page"
-menu: "focus-areas"
-description: "Rainmatter Foundation's climate thesis."
-aliases:
-  - /thesis
-  - /thesis/
----
++++
+title = "Focus Areas"
+type = "page"
+menu = "focus-areas"
+description = "Rainmatter Foundation's climate thesis."
++++
 
 
 Finding solutions to the climate problem needs a deep understanding of ground realities and committed local changemakers to engage with local stakeholders. We forge partnerships and provide support which may include but is not limited to direct funding to organisations,  individuals and alliances working at different areas of an entire spectrum through grants, fellowships and investments.
@@ -19,13 +16,13 @@ We look at our work along the following thesis areas.
 
 The Foundation seeks to address India's conservation and restoration opportunities and challenges through a collaborative approach. We are keen to partner with a range of individuals, institutions and community groups who are interested in these issues while working in a synergistic manner. Our approach is to explore the intricate interplay between ecological systems and social dynamics in the realm of conservation and restoration efforts.
 
-{{% readmore %}}
+{% readmore() %}
 At the heart of our philosophy lies the belief that climate change and biodiversity loss are not merely technical challenges but fundamentally social issues, rooted in human activities. Recognizing the complexity of ecological systems, we advocate for nature to guide its own restoration processes enhanced by a combination of traditional knowledge and cutting-edge science.
 
 Central to our ethos is also the concept of ownership and belonging. We believe that fostering a sense of ownership and connection among people is essential for long-term survival of the land, nature and wildlife. Our focus extends beyond preservation to the conservation and restoration of thriving ecosystems. 
 
 We welcome proactive engagement but due to the large number of applications we prefer to take the initiative to reach out to individuals or organisations whom we are eager to learn more about.
-{{% /readmore %}}
+{% end %}
 
 ----------
 
@@ -33,9 +30,9 @@ We welcome proactive engagement but due to the large number of applications we p
 
 India is urbanising rapidly, with the population in urban areas projected to rise to nearly 53% by 2050. India's progress to USD 30 trillion GDP economy in 2047 is going to be led by cities that are expected to contribute 75% to the GDP by 2030. Urban agglomerations are engines of economy, labour and consequently consumption, waste generation and poor 'Quality of Life'. In order to make climate friendly growth a reality for our national strategic objectives and improve 'Quality of Life', we need more actors to help embed a new green urban economy and a new green infrastructure into the solutions and policies that are laid out in the urban space. To do this we need to bring out new thinking that will overcome established path dependencies in growth and development.
 
-{{% readmore %}}
+{% readmore() %}
 The interplay in Urban areas between state, market and society has systemic lock-in's. These lock-in's are behavioural and financial. As these systems evolve over time, path dependency hardens. Hence, changes to the system even if at the margins are not zero to one in nature. Urban areas are net consumers, with most of the resources coming from outside the urban boundaries, mostly at the cost of natural resources and loss of public commons and biodiversity, resulting in poor Quality of Life. There isn't a readily available true cost of these negative externalities across individuals, business value chains for decisions city administrators and politicians make. Hence we end up tweaking symptoms instead of the root cause. Not only do we use resources inefficiently but also induce fragility to the urban systems due to this path dependence. Urban fragility should account for climate positive rejuvenation as a key principle on the road to increasing resilience and delivering strategically important growth targets.. We would also like to evaluate market players who have an approach to reduce consumption or an alternate basket of goods that reduces climate footprint.
-{{% /readmore %}}
+{% end %}
 
 ----------
 
@@ -43,11 +40,11 @@ The interplay in Urban areas between state, market and society has systemic lock
 
 At the Rainmatter Foundation, we work with partner organisations to learn how communities associate and relate with their places i.e. how do they understand the unique strengths, skills, resources, and needs through a place-lens. Enabling ownership of a place by tracking its assets, resources, incomes, livelihoods, local economy, waste, etc. form the basis of our core belief 'Sense of the house' or what you could call a positive sense of ownership towards the places we inhabit.  
 
-{{% readmore %}}
+{% readmore() %}
 One of the pillars of how we're seeing the change needed in solving the climate crisis, is leveraging the community's understanding of their own landscapes and resources. We believe the best people to drive this change with communities everywhere are changemakers embedded within the communities - both individuals and organisations. 
 
 The idea of decentralised economies is closely connected to the 'Sense of the house' thesis. Having a decentralised economy, or many such “clusters” across the country, could potentially reduce the communities' external dependencies to a large extent. Decentralised economies would enable more communities to meet their consumption needs through local production, and find solutions inspired from local biodiversity rather than ones rooted in extraction. In the process, these communities preserve their unique identity, assets, resources and skills.
-{{% /readmore %}}
+{% end %}
 
 ----------
 
@@ -61,13 +58,13 @@ The understanding of solutions from an Energy and Material perspective is essent
 
 The goal of ecosystem messaging at the foundation is to reimagine how we talk about and  understand the climate crisis. Moving beyond how climate is conventionally spoken about - in a doom and gloom, abstract manner that can often lead to indifference or guilt, what we need is storytelling that is accessible, relatable, place-based, intersectional, and non-technical. 
 
- {{% readmore %}}
+ {% readmore() %}
 We imagine climate as a front-and-centre subject at individual, community, industry, governance levels and more visibility of climate across mainstream media, with increased interest in intersectionality. The intent of ecosystem messaging needs to be to nudge awareness and spur climate action.  Further, players in the ecosystem need to come together to build an integrated narrative and leverage each other's strengths to take this message to a much larger audience in an effective way. 
 
 Capacity-building in regional storytelling, ecosystem convenings to encourage conversations among varied stakeholders, and taking these narratives to a larger audience via mainstream media, storytellers, influencers etc. is what we're looking at. 
 
 In essence, we want to support storytelling that can inspire action over despair.
-{{% /readmore %}}
+{% end %}
 
 ---------
 
@@ -75,11 +72,11 @@ In essence, we want to support storytelling that can inspire action over despair
 
 Buildings shape the way we live, use energy, and relate to our environment. In India, where urbanisation and infrastructure growth are accelerating, how we build—what materials we use, how we design spaces, and whose knowledge we include—has deep and long-lasting implications. Construction is not only a significant contributor to environmental impact, but also closely linked to local economies, cultural practices, and how communities prepare for and respond to climate challenges.
 
-{{% readmore %}}
+{% readmore() %}
 The built environment offers one of the most immediate and tangible opportunities to shift from extractive practices to regenerative ones. By focusing on buildings, we hope to support a transition toward long-term resilience and wellbeing. This means supporting approaches that prioritise thermal comfort, resource efficiency, low ecological footprint, and adaptability to climate realities—moving beyond the narrow lens of decarbonisation or short-term fixes.
 
 This shift calls for rethinking systems—how knowledge is created and shared, how decisions are made, and how policies, finance, and industry can align with ecological and social goals. We support efforts that build collective intelligence, enable better data and standards, amplify rooted and traditional methods, and create collaborative platforms for practitioners, policymakers, and communities. At its heart, the built environment is a long-term conversation—and one that shapes what futures are possible.
-{{% /readmore %}}
+{% end %}
 
 ---------
 

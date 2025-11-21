@@ -1,10 +1,8 @@
----
-title: "Research"
-type: "page"
-menu: "research"
-description: "Kailash Nadh's research page. Brief overview, list of publications, some code and other things."
-keywords: ["kailash nadh research", "research", "publications", "research papers", "computational linguistics"]
----
++++
+title = "Research"
+description = "Kailash Nadh's research page. Brief overview, list of publications, some code and other things."
+template = "page.html"
++++
 I obtained a PhD (2009 - 2011) in Artificial Intelligence &amp; Computational Linguistics from the Middlesex University, London, under [Dr. Christian Huyck](http://www.cwa.mdx.ac.uk/chris/).
 
 My thesis—&ldquo;*Modelling Emergent Phenomena in Associative Memory with Neural Cell Assemblies*&rdquo;—dealt ([PDF](files/kailash-phd-thesis.pdf)) with the dynamics of associative memories modeled in in neural Cell Assemblies. The work involved creating Hebbian Cell Assembly models investigating natural language processing, simulated vision, spatial cognitive mapping, queriable hierarchical memories, self-learning agents, and more.

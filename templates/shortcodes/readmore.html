@@ -1,0 +1,4 @@
+<div class="read-more">
+    <div id="more-{{ id | default(value=page.slug) }}" style="display: none;">{{ body }}</div>
+    <a href="#" data-target="more-{{ id | default(value=page.slug) }}" class="read-more">Read more</a>
+</div>

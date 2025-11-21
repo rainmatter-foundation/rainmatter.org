@@ -1,52 +1,48 @@
-baseURL = "https://rainmatter.org"
-languageCode = "en-us"
-title = "Rainmatter Foundation"
-paginate = 10
-googleAnalytics = ""
+# Zola configuration for Rainmatter Foundation
 
-[params]
+base_url = "https://rainmatter.org"
+title = "Rainmatter Foundation"
+description = "Non-profit working on environment, climate change, green livelihood projects in India."
+default_language = "en"
+compile_sass = true
+minify_html = false
+build_search_index = false
+generate_feeds = false
+
+[markdown]
+highlight_code = false
+smart_punctuation = false
+
+[extra]
 subtitle = "Non-profit working on environment, climate change, green livelihood projects in India."
 
-[taxonomies]
-   tag = "tags"
-   author = "authors"
+# Menu configuration
+[[extra.menu]]
+name = "About"
+url = "/about"
+weight = 1
 
-[menu]
-   [[menu.header]]
-      identifier = "about"
-      name = "About"
-      url = "/about"
-      weight = 1
+[[extra.menu]]
+name = "Partners"
+url = "/partners"
+weight = 2
 
-   [[menu.header]]
-      identifier = "partners"
-      name = "Partners"
-      url = "/Partners"
-      weight = 2
+[[extra.menu]]
+name = "Place Thesis"
+url = "/place-thesis"
+weight = 3
 
-   [[menu.header]]
-      identifier = "place-thesis"
-      name = "Place Thesis"
-      url = "/place-thesis"
-      weight = 3
+[[extra.menu]]
+name = "Focus Areas"
+url = "/focus-areas"
+weight = 4
 
-   [[menu.header]]
-      identifier = "thesis"
-      name = "Focus Areas"
-      url = "/focus-areas"
-      weight = 4
+[[extra.menu]]
+name = "Blog"
+url = "https://blog.rainmatter.org"
+weight = 5
 
-   [[menu.header]]
-      identifier = "blog"
-      name = "Blog"
-      url = "https://blog.rainmatter.org"
-      weight = 5
-
-   [[menu.header]]
-      identifier = ""
-      name = "Forum"
-      url = "https://grove.rainmatter.org"
-      weight = 6
-
-[markup.goldmark.renderer]
-   unsafe= true
+[[extra.menu]]
+name = "Forum"
+url = "https://grove.rainmatter.org"
+weight = 6

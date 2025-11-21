@@ -1,9 +1,9 @@
----
-title: "Terms and Conditions"
-type: "page"
-menu: "resources"
-description: "Terms and Conditions"
----
++++
+title = "Terms and Conditions"
+type = "page"
+menu = "resources"
+description = "Terms and Conditions"
++++
 
 <div class="row">
     <div class="ten columns">

@@ -1,5 +1,6 @@
-{{ partial "header.html" . }}
+{% extends "base.html" %}
 
+{% block content %}
 <section class="welcome">
 	<div class="row">
 		<div class="five columns text">
@@ -166,23 +167,5 @@
 		</div>
 		<!-- row -->
 	</section>
-
-	<!--  	<section class="mini recent-blog">
- 		<h1 class="align-center">Blog</h1>
-
- 		<ul class="flat" id="blog-entries">
- 			<li class="entry row">
- 				<div class="two columns date">
- 					<span class="day"></span>
- 					<span class="month"></span>
- 				</div>
- 				<div class="one column"> </div>
- 				<div class="nine columns">
-	 				<h4 class="title"><a href="" class="url"></a></h4>
-		 			<p class="description"></p>
-		 		</div>
- 			</li>
- 		</ul>
- 	</section> -->
 </div>
-{{ partial "footer.html" . }}
+{% endblock content %}

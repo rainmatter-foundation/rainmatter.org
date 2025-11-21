@@ -1,0 +1,26 @@
+{% set data = load_data(path="static/data/" ~ type ~ ".json") %}
+{% set data_len = data | length %}
+
+<div class="investments">
+{% for item in data | reverse %}
+    <div class="row">
+        <div class="one column">
+            <h4>{{ item.year }}</h4>
+        </div>
+        <div class="eight columns">
+            <h4><a href="{{ item.url }}">{{ item.name }}</a></h4>
+            <p class="text-small">{{ item.description }}</p>
+        </div>
+        <div class="three columns amount text-small">
+            {% if item.amount %}
+                <span class="amount">
+                    ₹{{ item.amount / 10000000.0 }}cr
+                </span>
+            {% endif %}
+            {% if item.amount and item.period %}
+                <span class="period">over {{ item.period }}</span>
+            {% endif %}
+        </div>
+    </div>
+{% endfor %}
+</div>

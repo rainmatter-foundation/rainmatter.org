@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	{% if current_path == "/" %}
+	<title>{{ config.title }} {% if config.extra.subtitle %}- {{ config.extra.subtitle }}{% endif %}</title>
+	{% else %}
+	<title>{{ page.title | default(value=section.title) }} - {{ config.title }}</title>
+	{% endif %}
+
+	<meta charset="utf-8" />
+	<meta name="title" content="{{ config.title }}">
+	<meta name="description" content="{% if page.description %}{{ page.description }}{% elif section.description %}{{ section.description }}{% else %}{{ config.extra.subtitle }}{% endif %}" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- Open Graph -->
+	{% if current_path == "/" %}
+	<meta property="og:title" content="{{ config.title }} {% if config.extra.subtitle %}- {{ config.extra.subtitle }}{% endif %}" />
+	{% else %}
+	<meta property="og:title" content="{{ page.title | default(value=section.title) }} - {{ config.title }}" />
+	{% endif %}
+
+	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% elif section.description %}{{ section.description }}{% else %}{{ config.extra.subtitle }}{% endif %}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="{{ current_url }}" />
+
+	<link rel="shortcut icon" href="{{ config.base_url }}/static/images/favicon.png" />
+
+	<meta property="og:image" content="{{ config.base_url }}/static/images/thumb.jpg">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" media="screen" href="{{ config.base_url }}/static/grid.css?v=2" />
+	<link rel="stylesheet" type="text/css" media="screen" href="{{ config.base_url }}/static/style.css?v=2" />
+</head>
+
+<body class="{% if page %}{{ page.slug }}{% elif section %}{{ section.path | replace(from="/", to="") }}{% endif %}">
+
+<header class="header">
+	<div class="container">
+		<div class="row">
+			<div class="logo three columns">
+				<a href="{{ config.base_url }}/"><img alt="Rainmatter Foundation"
+						src="{{ config.base_url }}/static/images/logo.svg?v=3" /></a>
+			</div>
+			<a href="#" id="burger"><span></span><span></span><span></span></a>
+			<div class="nine columns nav">
+				<nav>
+					{% for item in config.extra.menu %}
+					<a class="{% if current_path == item.url %}active{% endif %}" href="{{ item.url }}" title="{{ item.name }}">{{ item.name }}</a>
+					{% endfor %}
+				</nav>
+			</div>
+		</div>
+	</div>
+</header>
+
+<div class="wrap container {% if current_path == "/" %}home{% else %}page{% endif %} page-{% if page %}{{ page.slug }}{% endif %}">
+	<div class="content">
+		{% if page and current_path != "/" %}
+			<h1 class="page-title">{{ page.title }}</h1>
+		{% endif %}
+
+		{% block content %}{% endblock %}
+
+	</div>
+</div>
+
+<footer class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="four columns">
+				<div class="logo">
+					<a href="/"><img src="/static/images/logo-mark.svg" alt="" /></a>
+				</div>
+				<p>
+					Rainmatter Foundation &copy; 2019-{{ now() | date(format="%Y") }}
+					<br />
+					<a href="mailto:info@rainmatter.org">info@rainmatter.org</a>
+				</p>
+				<p><strong>CIN</strong> U72900KA2016NPL093525</p>
+			</div>
+			<div class="four columns">
+				<ul class="flat">
+					<li><a href="/"><strong>Home</strong></a></li>
+					<li><a href="/about">About</a></li>
+					<li><a href="/partners">Partners</a></li>
+					<li><a href="/focus-areas">Focus Areas</a></li>
+					<li><a href="/disclosure">Disclosure</a></li>
+					<li><a href="/resources">Resources</a></li>
+					<li><a href="https://grove.rainmatter.org">Forum</a></li>
+					<li><a href="https://listmonk.rainmatter.org/subscription/form">Newsletter</a></li>
+				</ul>
+			</div>
+			<div class="four columns">
+				<strong>Address</strong><br />
+				#47/1, 39th Cross Rd,<br />
+				8th Block, Jayanagar,<br />
+				Bengaluru - 560070
+			</div>
+		</div>
+	</div>
+</footer>
+<script type="text/javascript" src="/static/main.js"></script>
+</body>
+
+</html>
