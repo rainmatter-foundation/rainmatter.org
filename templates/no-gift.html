@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+
+{% block content %}
+<link rel="stylesheet" type="text/css" media="screen" href="{{ config.base_url }}/static/no-gift.css" />
+
+<div class="intro">
+    <p>
+        Every festive season, organisations gift each other boxes of sweets and dry fruits—and often cheap plastic junk—that are mostly unwanted and end up in the trash. We believe this is unsustainable and wasteful.
+    </p>
+    <p>
+        We encourage organisations to take the <strong>No Corporate Gift Box</strong> pledge, and instead, donate the money they would have spent on gift boxes to a worthy cause.
+    </p>
+</div>
+
+<div class="section">
+    <h2>Donees</h2>
+    <p>Here are some organisations doing excellent work that you can donate to instead of buying gift boxes.</p>
+
+    {% set donees = load_data(path="static/data/no-gift-donees.json") %}
+    <ul class="donees">
+    {% for org in donees %}
+        <li class="box">
+            <div class="head">
+                {% if org.image_url %}
+                <img src="{{ config.base_url }}/static/images/no-gift/{{ org.image_url }}" alt="{{ org.name }}" />
+                {% endif %}
+            </div>
+            <h3 class="title"><a href="{{ org.url }}">{{ org.name }}</a></h3>
+            <p class="desc">{{ org.description }}</p>
+            {% if org.donate_url %}
+            <div class="donate">
+                <a href="{{ org.donate_url }}" class="button">Donate</a>
+            </div>
+            {% endif %}
+        </li>
+    {% endfor %}
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Pledgers</h2>
+    <p>These organisations have taken the No Corporate Gift Box pledge.</p>
+
+    {% set pledgers = load_data(path="static/data/no-gift-pledgers.json") %}
+    <ul class="pledgers">
+    {% for org in pledgers %}
+        <li>
+            <a href="{{ org.url }}">{{ org.name }}</a> ({{ org.year }})
+        </li>
+    {% endfor %}
+    </ul>
+</div>
+
+<div class="section center">
+    <h3>Take the pledge</h3>
+    <p>
+        If your organisation would like to take the No Corporate Gift Box pledge, please write to us at
+        <a href="mailto:info@rainmatter.org">info@rainmatter.org</a>.
+    </p>
+</div>
+
+{% endblock content %}
