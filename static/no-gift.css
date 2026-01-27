@@ -1,80 +1,29 @@
-:root {
-	--primary: #178a63;
-}
+/* No Gift Pledge page specific styles */
 
-* {
-	box-sizing: border-box;
+.page-no-gift-pledge .intro {
+	margin-bottom: 45px;
 }
-
-html, body {
-	margin: 0;
-	padding: 0;
-}
-
-body {
-    background: #fff;
-    font-family: "Inter", sans-serif;
-    font-weight: 400;
-    color: #333;
-    line-height: 1.6em;
-    font-size: 18px;
-}
-
-img {
-	max-width: 100%;
-}
-
-a {
-	color: var(--primary);
-}
-	a:hover {
-		color: inherit;
+	.page-no-gift-pledge .intro h3 {
+		color: var(--primary);
 	}
 
-h1 {
-	font-weight: 400;
-	font-size: 2.3rem;
-	line-height: 2.8rem;
-}
-h3 {
-	line-height: 2.1rem;
-}
-
-h1 a, h2 a, h3 a, h4 a {
-	text-decoration: none;
-}
-
-footer {
-	margin-bottom: 30px;
-	font-size: 1rem;
-	color: #888;
-}
-
-.section:not(last-child) {
+.page-no-gift-pledge .section:not(:last-child) {
 	margin-bottom: 30px;
 	padding-bottom: 30px;
 }
 
-sup a {
-	text-decoration: none;
-	font-size: 1rem;
-	display: inline-block;
-	padding: 0 3px 0 5px;
-	line-height: 1rem;
-}
-
-.center {
+.page-no-gift-pledge .center {
 	text-align: center;
 }
 
-.box {
+.page-no-gift-pledge .box {
 	padding: 30px;
 	border: 1px solid #e6e6e6;
 	box-shadow: 1px 1px 4px #e6e6e6;
 	border-radius: 4px;
 }
 
-.button {
+.page-no-gift-pledge .button {
 	background: var(--primary);
 	color: #fff;
 	padding: 15px 30px;
@@ -85,58 +34,54 @@ sup a {
 	display: inline-block;
 	text-align: center;
 }
-	.button:hover {
+	.page-no-gift-pledge .button:hover {
 		background: #333;
 		color: #fff;
 	}
 
-
-.header {
-	margin-bottom: 60px;
-}
-
-.wrap {
-	margin-top: 30px;
-	padding: 15px;
-	max-width: 1100px;
-}
-
-.intro {
-	margin-bottom: 45px;
-}
-	.intro h3 {
-		color: var(--primary);
-	}
-
-.orgs {
+.page-no-gift-pledge .donees {
 	list-style-type: none;
 	margin-bottom: 0;
 	padding: 0;
 	color: #555;
-
 	display: flex;
 	flex-wrap: wrap;
-	column-gap: 15px;
+	gap: 20px;
 }
-	.orgs li {
+	.page-no-gift-pledge .donees li {
 		flex: 1;
+		min-width: 300px;
+		max-width: 350px;
 	}
-	.orgs li:not(last-child) {
-		margin-bottom: 30px;
-	}
-	.orgs .head {
+	.page-no-gift-pledge .donees .head {
 		text-align: center;
-		min-height: 220px;
+		min-height: 180px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 	}
-	.orgs img {
-		border:  1px solid #eee;
+	.page-no-gift-pledge .donees img {
+		border: 1px solid #eee;
+		max-height: 150px;
 	}
-	.orgs .desc {	
+	.page-no-gift-pledge .donees .desc {
 		font-size: 0.9rem;
 		line-height: 1.3rem;
-		margin:  20px 0 0 0;
+		margin: 20px 0;
 	}
-	.orgs .title {
+	.page-no-gift-pledge .donees .title {
 		margin-bottom: 0;
 		line-height: 1.9rem;
+	}
+	.page-no-gift-pledge .donees .donate {
+		margin-top: 20px;
+		text-align: center;
+	}
+
+.page-no-gift-pledge .pledgers {
+	list-style-type: none;
+	padding: 0;
+}
+	.page-no-gift-pledge .pledgers li {
+		margin-bottom: 10px;
 	}

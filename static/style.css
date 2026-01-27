@@ -629,3 +629,250 @@ ol.disclosure-inner-ol > li {
         padding: 30px;
     }
 }
+
+/* Partner Map */
+.partner-search-container {
+    position: relative;
+    max-width: 400px;
+    margin-bottom: 20px;
+}
+
+#partner-search {
+    width: 100%;
+    padding: 12px 16px;
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+#partner-search:focus {
+    border-color: var(--primary);
+}
+
+#partner-search::placeholder {
+    color: #999;
+}
+
+#partner-search-results {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: white;
+    border: 1px solid #ddd;
+    border-top: none;
+    border-radius: 0 0 6px 6px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    z-index: 10000;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.search-result-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 16px;
+    cursor: pointer;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.search-result-item:last-child {
+    border-bottom: none;
+}
+
+.search-result-item:hover,
+.search-result-item.selected {
+    background: #f5f5f5;
+}
+
+.search-result-icon {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+.search-result-text {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.search-result-text strong {
+    font-size: 15px;
+    color: #222;
+}
+
+.search-result-text span {
+    font-size: 13px;
+    color: #666;
+}
+
+#partner-map {
+    height: 750px;
+    width: 100%;
+    border-radius: 8px;
+    margin: 30px 0;
+    border: 1px solid #e6e6e6;
+}
+
+.partner-marker {
+    background: transparent;
+    border: none;
+}
+
+.partner-popup {
+    min-width: 280px;
+    padding: 5px;
+}
+
+.partner-popup-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.partner-popup-icon {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #f8f8f8;
+    padding: 4px;
+}
+
+.partner-popup-title {
+    flex: 1;
+}
+
+.partner-popup h3 {
+    margin: 0 0 6px 0;
+    font-size: 18px;
+    font-weight: 600;
+    color: #1a1a1a;
+    line-height: 1.3;
+}
+
+.partner-popup p {
+    margin: 8px 0;
+    font-size: 14px;
+    color: #444;
+    line-height: 1.6;
+}
+
+.partner-category {
+    display: inline-block;
+    padding: 3px 12px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    background: var(--primary);
+    text-transform: capitalize;
+}
+
+.partner-address {
+    font-style: italic;
+    color: #666 !important;
+    font-size: 13px !important;
+}
+
+.partner-description {
+    margin-top: 10px !important;
+}
+
+.partner-popup-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid #eee;
+}
+
+.popup-btn {
+    flex: 1;
+    padding: 8px 12px;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    font-family: "Inter", sans-serif;
+}
+
+.popup-btn-zoom {
+    background: #f0f0f0;
+    color: #333;
+}
+
+.popup-btn-zoom:hover {
+    background: #e0e0e0;
+}
+
+.popup-btn-gmaps,
+.popup-btn-gmaps:link,
+.popup-btn-gmaps:visited,
+.popup-btn-gmaps:active {
+    background: var(--primary);
+    color: white !important;
+}
+
+.popup-btn-gmaps:hover {
+    background: var(--bg);
+    color: white !important;
+}
+
+.partner-legend {
+    background: white;
+    padding: 16px 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    font-size: 14px;
+}
+
+.partner-legend h4 {
+    margin: 0 0 12px 0;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.partner-legend .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 6px 0;
+    cursor: pointer;
+}
+
+.partner-legend .legend-item input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    accent-color: var(--primary);
+}
+
+.partner-legend .legend-item span {
+    user-select: none;
+}
+
+.partner-legend .legend-icon {
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+@media(max-width: 900px) {
+    #partner-map {
+        height: 450px;
+    }
+}
