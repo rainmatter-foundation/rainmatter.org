@@ -37,14 +37,8 @@ The interplay in Urban areas between state, market and society has systemic lock
 ----------
 
 ## Rural
-
-At the Rainmatter Foundation, we work with partner organisations to learn how communities associate and relate with their places i.e. how do they understand the unique strengths, skills, resources, and needs through a place-lens. Enabling ownership of a place by tracking its assets, resources, incomes, livelihoods, local economy, waste, etc. form the basis of our core belief 'Sense of the house' or what you could call a positive sense of ownership towards the places we inhabit.  
-
-{% readmore() %}
-One of the pillars of how we're seeing the change needed in solving the climate crisis, is leveraging the community's understanding of their own landscapes and resources. We believe the best people to drive this change with communities everywhere are changemakers embedded within the communities - both individuals and organisations. 
-
-The idea of decentralised economies is closely connected to the 'Sense of the house' thesis. Having a decentralised economy, or many such “clusters” across the country, could potentially reduce the communities' external dependencies to a large extent. Decentralised economies would enable more communities to meet their consumption needs through local production, and find solutions inspired from local biodiversity rather than ones rooted in extraction. In the process, these communities preserve their unique identity, assets, resources and skills.
-{% end %}
+The Rural Thesis is centered on empowering rural communities to become the primary custodians of their land and local ecosystems. The thesis envisions this through enabling positive place ownership, ensuring communities have the agency to decide their own path toward improvement. This vision is strengthened by the creation of climate-aligned decentralized economies and robust, shared knowledge systems in such places.
+The work also involves transforming local knowledge and information into platform-based services and products, thereby 'platformizing' and 'servicifying' what's locally available to support relevant grassroots changemakers. Ultimately, the goal is to build ecologically, economically, and socially sustainable places led by the very people who live there.
 
 ----------
 
