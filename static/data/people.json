@@ -1,9 +1,9 @@
 {
   "sameer": {
     "name": "Sameer Shisodia",
-    "title": "CEO",
+    "title": "",
     "photo": "sameer.jpg",
-    "bio": "Sameer heads the Rainmatter foundation and does deep dives on building a robust network of climate orgs with strategic application of the funding and grants program. He left his long career in the tech industry a decade ago and partly moved to Coorg to experiment with sustainable farming, farm collectives, and his personal passion, rejuvenating soil and forests. He runs <a href=\"https://linger.in\">Linger</a> as a hobby, and shares his thoughts regularly on his <a href=\"https://zenx.medium.com\">blog</a>",
+    "bio": "Sameer is an ecosystem fellow and does deep dives on building a robust network of climate orgs. He left his long career in the tech industry a decade ago and partly moved to Coorg to experiment with sustainable farming, farm collectives, and his personal passion, rejuvenating soil and forests. He runs <a href=\"https://linger.in\">Linger</a> as a hobby, and shares his thoughts regularly on his <a href=\"https://zenx.medium.com\">blog</a>",
     "links": {
       "LinkedIn": "https://www.linkedin.com/in/sameershisodia",
       "Twitter": "https://twitter.com/zenx"
@@ -152,6 +152,7 @@
   },
   "sathyanarayanan_shankaran": {
     "name": "Sathyanarayanan Shankaran",
+    "title": "CEO",
     "photo": "sathyanarayanan.jpg",
     "bio": "Sathya is the strategy lead for the Urban vertical at the Foundation. He brings three decades of experience in using tech and data to solve Urban issues in Mobility and Energy. Apart from his work with Rainmatter, he is the architect of AltMo, a gamified mobility intelligence platform for the future of climate friendly cities, and the host of India's premiere urban affairs podcast, OoruLabs. He is an adjunct faculty teaching Urban Governance for masters students, a Director at the waste management startup, Bioman and the Bicycle Mayor of Bengaluru."
   },
