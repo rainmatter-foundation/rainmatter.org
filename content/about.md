@@ -19,6 +19,7 @@ If you are experienced or passionate about this space and would like to work wit
 ## Team
 
 <div class="people">
+	{{ person(id="sathyanarayanan_shankaran") }}
 	{{ person(id="sameer") }}
 	{{ person(id="rajiv") }}
 	{{ person(id="mohit_mehra") }}
@@ -34,7 +35,6 @@ If you are experienced or passionate about this space and would like to work wit
 	{{ person(id="nayantara_lakshman") }}
 	{{ person(id="sailee_rane") }}
 	{{ person(id="siddharth_lahri") }}
-	{{ person(id="sathyanarayanan_shankaran") }}
 	{{ person(id="tanmay_mukherji") }}
 	{{ person(id="vartika_goel") }}
 	{{ person(id="spoorthi") }}
